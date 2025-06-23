@@ -12,7 +12,7 @@ from data import retailers
 import pandas as pd
 
 
-st.logo("logo_locifai_tha.png", icon_image="logo_locifai_2_min.png",size="large")
+st.logo("Dashboard_2/logo_locifai_tha.png", icon_image="Dashboard_2/logo_locifai_2_min.png",size="large")
 
 # ensures a valid city is selected; otherwise force to return to home - - - - -
 def store_selected_city():
