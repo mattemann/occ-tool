@@ -1,0 +1,1053 @@
+geometry,name,shop,amenity,tourism,healthcare,office,leisure,addr:street,addr:housenumber,addr:postcode,brand,operator,cuisine,lon,lat,lon_rnd,lat_rnd,name_norm,madrid_hdbscan_5_5
+POINT (-3.7106687 40.4723365),,,pharmacy,,pharmacy,,,Calle de Ribadavia,9,28029,,,,-3.7106687,40.4723365,-413072,4505380,,449
+POINT (-3.7094244 40.4114612),Evo Banco,,bank,,,,,,,,,,,-3.7094244,40.4114612,-412933,4498604,evo banco,1179
+POINT (-3.7101786 40.4116487),El Viajero,,restaurant,,,,,Plaza de la Cebada,11,28005,,,,-3.7101786,40.4116487,-413017,4498625,el viajero,1179
+POINT (-3.7105359 40.4118381),Pez Tortilla,,pub,,,,,Calle de la Cava Baja,42,28005,,,local;spanish,-3.7105359,40.4118381,-413057,4498646,pez tortilla,1179
+POINT (-3.7103837 40.41178),La Tomasa,,pub,,,,,,,,,,,-3.7103837,40.41178,-413040,4498639,la tomasa,1179
+POINT (-3.7106292 40.4118652),El Bonanno,,pub,,,,,Plaza del Humilladero,4,28005,,,,-3.7106292,40.4118652,-413067,4498649,el bonanno,1179
+POINT (-3.7105933 40.412068),Que trabaje Rita,,restaurant,,,,,,,,,,,-3.7105933,40.412068,-413063,4498671,que trabaje rita,1179
+POINT (-3.7109337 40.4118925),Cervecería San Andrés,,pub,,,,,,,,,,,-3.7109337,40.4118925,-413101,4498652,cervecería san andrés,1179
+POINT (-3.6966965 40.4109882),Gujarat,,pub,,,,,,,,,,,-3.6966965,40.4109882,-411516,4498551,gujarat,1132
+POINT (-3.6967784 40.4110395),Alcampo,supermarket,,,,,,,,,Alcampo,,,-3.6967784,40.4110395,-411525,4498557,alcampo,1132
+POINT (-3.6968537 40.4110728),,variety_store,,,,,,,,,,,,-3.6968537,40.4110728,-411534,4498561,,1132
+POINT (-3.6938445 40.4126615),,kiosk,,,,,,,,,,,,-3.6938445,40.4126615,-411199,4498737,,1072
+POINT (-3.6939658 40.4122937),El Fogón Verde,,restaurant,,,,,Calle de la Alameda,4,28014,,,spanish,-3.6939658,40.4122937,-411212,4498697,el fogón verde,1072
+POINT (-3.7085285 40.416073),Velicia,,bar,,,,,Calle Mayor,42,28013,,,,-3.7085285,40.416073,-412833,4499117,velicia,1225
+POINT (-3.7081195 40.4160241),Santander,,atm,,,,,,,,Banco Santander,Banco Santander,,-3.7081195,40.4160241,-412788,4499112,santander,1225
+POINT (-3.7080551 40.4191426),,greengrocer,,,,,,,,,,,,-3.7080551,40.4191426,-412781,4499459,,1265
+POINT (-3.7082433 40.4186643),Taberna de los Ángeles,,restaurant,,,,,Costanilla de los Ángeles,8,28013,,,,-3.7082433,40.4186643,-412802,4499406,taberna de los ángeles,1265
+POINT (-3.7039069 40.4191018),,,bar,,,,,,,,,,,-3.7039069,40.4191018,-412319,4499454,,1156
+POINT (-3.7040573 40.4193117),,,pub,,,,,,,,,,,-3.7040573,40.4193117,-412336,4499478,,1156
+POINT (-3.7043567 40.4192335),Hotel II Castillas,,,hotel,,,,Calle Abada,8,28013,,,,-3.7043567,40.4192335,-412369,4499469,hotel ii castillas,1156
+POINT (-3.6345377 40.443889),Matsuri,,restaurant,,,,,Calle López de Aranda,38,,,,asian,-3.6345377,40.443889,-404597,4502214,matsuri,276
+POINT (-3.6344424 40.4439935),Unus,,restaurant,,,,,,,,,,,-3.6344424,40.4439935,-404586,4502225,unus,276
+POINT (-3.6343156 40.4440493),Carlos,,restaurant,,,,,,,,,,,-3.6343156,40.4440493,-404572,4502232,carlos,276
+POINT (-3.6341149 40.4441386),El Ratito,,restaurant,,,,,,,,,,,-3.6341149,40.4441386,-404550,4502242,el ratito,276
+POINT (-3.6341303 40.4447687),La Plaza de DIA,supermarket,,,,,,,,,La Plaza de DIA,,,-3.6341303,40.4447687,-404551,4502312,la plaza de dia,276
+POINT (-3.6346069 40.4445466),Eu Mundo,,restaurant,,,,,,,,,,,-3.6346069,40.4445466,-404604,4502287,eu mundo,276
+POINT (-3.6350701 40.4445265),Caixabank,,bank,,,,,,,,Caixabank,,,-3.6350701,40.4445265,-404656,4502285,caixabank,276
+POINT (-3.635335 40.4448785),Casa Tampico,,restaurant,,,,,,,,,,,-3.635335,40.4448785,-404685,4502324,casa tampico,276
+POINT (-3.6344015 40.4454246),,,pharmacy,,pharmacy,,,Calle de Tumaco,20,28027,,,,-3.6344015,40.4454246,-404582,4502385,,276
+POINT (-3.7088661 40.4778026),,,pharmacy,,pharmacy,,,Plaza de Verín,3,28029,,,,-3.7088661,40.4778026,-412871,4505989,,468
+POINT (-3.6709914 40.5081627),Taberna La Bonica,,restaurant,,,,,,,,,,,-3.6709914,40.5081627,-408655,4509369,taberna la bonica,145
+POINT (-3.6921875 40.3727453),Centro Privado de Educación Infantil y Primaria San Fermín,,school,,,,,Calle de la Estafeta,17,28041,,,,-3.6921875,40.3727453,-411014,4494294,centro privado de educación infantil y primaria san fermín,116
+POINT (-3.7073252 40.3481158),Centro Privado de Formación Profesional Específica Hease,,school,,,,,Calle de la Plata,6,28021,,,,-3.7073252,40.3481158,-412699,4491552,centro privado de formación profesional específica hease,131
+POINT (-3.6928051 40.3733742),Escuela Infantil San Fermín,,school,,,,,Calle de la Estafeta,14,28041,,Comunidad de Madrid,,-3.6928051,40.3733742,-411083,4494364,escuela infantil san fermín,116
+POINT (-3.692058 40.3716401),Escuela Municipal de Educación de Personas Adultas Escuela Municipal de Adultos Usera,,school,,,,,Calle de la Estafeta,33,28041,,,,-3.692058,40.3716401,-411000,4494171,escuela municipal de educación de personas adultas escuela municipal de adultos usera,116
+POINT (-3.7088484 40.3442835),Academia Triunfo IV,,school,,,,,Calle de Gregorio Ortiz,19,28021,,,,-3.7088484,40.3442835,-412869,4491126,academia triunfo iv,131
+POINT (-3.6869808 40.4666366),Farmacia Lda. A. Abeger,,pharmacy,,pharmacy,,,Calle de Mateo Inurria,9,28036,,,,-3.6869808,40.4666366,-410435,4504746,farmacia lda. a. abeger,677
+POINT (-3.685306 40.4519724),,,post_box,,,,,,,,Correos,Correos,,-3.685306,40.4519724,-410248,4503114,,607
+POINT (-3.6853594 40.4520557),,,pharmacy,,pharmacy,,,Glorieta de los Sagrados Corazones,4,28036,,,,-3.6853594,40.4520557,-410254,4503123,,607
+POINT (-3.7078934 40.4037012),Ahorramás,supermarket,,,,,,,,,Ahorramás,,,-3.7078934,40.4037012,-412763,4497740,ahorramás,975
+POINT (-3.6711726 40.5082246),The Chatter Café,,cafe,,,,,,,,,,,-3.6711726,40.5082246,-408675,4509376,the chatter café,145
+POINT (-3.6712871 40.5078343),Ahorramás,supermarket,,,,,,Avenida Camino de Santiago,58,28050,Ahorramás,,,-3.6712871,40.5078343,-408688,4509332,ahorramás,145
+POINT (-3.6957653 40.4267323),Cacao Sampaka,chocolate,,,,,,,,,,,,-3.6957653,40.4267323,-411413,4500304,cacao sampaka,1087
+POINT (-3.6992792 40.4151898),El Tronco,,restaurant,,,,,Calle de Manuel Fernández y González,15,28014,,,regional,-3.6992792,40.4151898,-411804,4499019,el tronco,1214
+POINT (-3.70869 40.4217768),Teatro Lope de Vega,,theatre,,,,,Gran Vía,57,,,,,-3.70869,40.4217768,-412851,4499752,teatro lope de vega,1257
+POINT (-3.7292158 40.43983),Bokado,,restaurant,,,,,Avenida Juan de Herrera,2,,,,,-3.7292158,40.43983,-415136,4501762,bokado,87
+POINT (-3.6992261 40.415143),El Lacón,,restaurant,,,,,Calle de Manuel Fernández y González,8,28014,,,spanish,-3.6992261,40.415143,-411798,4499014,el lacón,1214
+POINT (-3.6968 40.450595),Simply City,convenience,,,,,,Calle de Edgar Neville,29,28020,Simply City,,,-3.6968,40.450595,-411528,4502960,simply city,739
+POINT (-3.7062622 40.4046876),Mercadona,supermarket,,,,,,,,,Mercadona,,,-3.7062622,40.4046876,-412581,4497850,mercadona,975
+POINT (-3.7103494 40.4117958),,,pharmacy,,pharmacy,,,Calle de la Cava Baja,47,28005,,,,-3.7103494,40.4117958,-413036,4498641,,1179
+POINT (-3.6962385 40.4266136),100 Montaditos,,restaurant,,,,,,,,100 Montaditos,,sandwich,-3.6962385,40.4266136,-411465,4500291,100 montaditos,1087
+POINT (-3.6962852 40.4262381),Da Gavino,,restaurant,,,,,Calle de Santa Teresa,1,,,,,-3.6962852,40.4262381,-411470,4500249,da gavino,1087
+POINT (-3.6954532 40.4265861),Art contemporain,,arts_centre,,,,,,,,,,,-3.6954532,40.4265861,-411378,4500288,art contemporain,1087
+POINT (-3.6965448 40.4262386),Paradox libros,books,,,,,,,,28004,,,,-3.6965448,40.4262386,-411499,4500249,paradox libros,1087
+POINT (-3.6961276 40.4267584),Domino's,,fast_food,,,,,,,,Domino's,,pizza,-3.6961276,40.4267584,-411453,4500307,domino's,1087
+POINT (-3.6955608 40.426637),Casa Orellana,,restaurant,,,,,,,,,,,-3.6955608,40.426637,-411390,4500293,casa orellana,1087
+POINT (-3.6964188 40.4261592),Osom Coffee Atelier,,restaurant,,,,,Calle de Santa Teresa,2,28004,,,,-3.6964188,40.4261592,-411485,4500240,osom coffee atelier,1087
+POINT (-3.6961684 40.4267047),Paris Avenue,,restaurant,,,,,Plaza de Santa Bárbara,9,28004,,,,-3.6961684,40.4267047,-411457,4500301,paris avenue,1087
+POINT (-3.696332 40.4260969),Meat,,fast_food,,,,,Calle de Santa Teresa,4,28004,,,burger,-3.696332,40.4260969,-411476,4500233,meat,1087
+POINT (-3.6960433 40.4268694),Santa Bárbara,,cafe,,,,,,,,,,,-3.6960433,40.4268694,-411444,4500319,santa bárbara,1087
+POINT (-3.6946869 40.4256989),mint&rose.,clothes,,,,,,,,,,,,-3.6946869,40.4256989,-411293,4500189,mint&rose.,1099
+POINT (-3.6948018 40.4252916),La botica de Argensola,,pharmacy,,pharmacy,,,Calle de Argensola,12,28004,,,,-3.6948018,40.4252916,-411305,4500143,la botica de argensola,1099
+POINT (-3.6947144 40.425659),Calicanto,,restaurant,,,,,Calle de Argensola,15,28004,,,,-3.6947144,40.425659,-411296,4500184,calicanto,1099
+POINT (-3.6946446 40.4255234),Belén Y,clothes,,,,,,Calle de Argensola,18,28004,,,,-3.6946446,40.4255234,-411288,4500169,belén y,1099
+POINT (-3.6946626 40.4254888),almamater/almapater,clothes,,,,,,Calle de Argensola,16,,,,,-3.6946626,40.4254888,-411290,4500165,almamater/almapater,1099
+POINT (-3.709298 40.4114564),,tobacco,,,,,,,,,,,,-3.709298,40.4114564,-412919,4498603,,1179
+POINT (-3.7091871 40.412118),Taberna Matritum,,restaurant,,,,,Calle de la Cava Alta,17,28005,,,regional,-3.7091871,40.412118,-412907,4498677,taberna matritum,1179
+POINT (-3.7100383 40.4115649),Alimentación,convenience,,,,,,,,,,,,-3.7100383,40.4115649,-413001,4498615,alimentación,1179
+POINT (-3.709854 40.411475),Tapioca,,restaurant,,,,,Plaza de la Cebada,9,28005,,,pizza,-3.709854,40.411475,-412981,4498605,tapioca,1179
+POINT (-3.7092521 40.4120926),Tierras Polares,travel_agency,,,,,,,,,,,,-3.7092521,40.4120926,-412914,4498674,tierras polares,1179
+POINT (-3.7095573 40.4114642),Lagur,clothes,,,,,,,,,,,,-3.7095573,40.4114642,-412948,4498604,lagur,1179
+POINT (-3.7097257 40.411489),Unicaja Banco,,bank,,,,,,,,Unicaja Banco,,,-3.7097257,40.411489,-412967,4498607,unicaja banco,1179
+POINT (-3.7101204 40.411605),Super Euro,variety_store,,,,,,,,,,,,-3.7101204,40.411605,-413011,4498620,super euro,1179
+POINT (-3.7099207 40.4115097),La extremeña,,bar,,,,,,,,,,,-3.7099207,40.4115097,-412988,4498609,la extremeña,1179
+POINT (-3.6902887 40.4277291),Sagardi,,restaurant,,,,,Paseo de la Castellana,13,28046,,,regional,-3.6902887,40.4277291,-410803,4500415,sagardi,712
+POINT (-3.6958063 40.4261623),Black Cherry,clothes,,,,,,Calle de Campoamor,9,28004,,,,-3.6958063,40.4261623,-411417,4500240,black cherry,1087
+POINT (-3.6959294 40.4260145),,,pharmacy,,pharmacy,,,Calle de Santa Teresa,3,28004,,,,-3.6959294,40.4260145,-411431,4500224,,1087
+POINT (-3.6955877 40.4264247),Jepa,clothes,,,,,,,,,,,,-3.6955877,40.4264247,-411393,4500270,jepa,1087
+POINT (-3.6956692 40.4263268),Mad Grill,,restaurant,,,,,Calle de Campoamor,13,28004,,,burger,-3.6956692,40.4263268,-411402,4500259,mad grill,1087
+POINT (-3.6956282 40.4260706),Cherokee,,bar,,,,,Calle de Campoamor,12,28004,,,,-3.6956282,40.4260706,-411397,4500230,cherokee,1087
+POINT (-3.6944773 40.4259807),Estetica Natura,beauty,,,,,,Calle de Argensola,21,28004,,,,-3.6944773,40.4259807,-411269,4500220,estetica natura,1099
+POINT (-3.7532978 40.4063709),"Boutique del Pan ""El Batán""",bakery,,,,,,,,,,,,-3.7532978,40.4063709,-417817,4498037,"boutique del pan ""el batán""",457
+POINT (-3.7038683 40.4484601),,kiosk,,,,,,Calle de Bravo Murillo,,,,,,-3.7038683,40.4484601,-412315,4502723,,933
+POINT (-3.7076566 40.4295024),Fotocopias Planos Papelería,copyshop,,,,,,Calle del Acuerdo,34,,,,,-3.7076566,40.4295024,-412736,4500612,fotocopias planos papelería,1102
+POINT (-3.7079627 40.4289478),Herbolario Santa Ana,herbalist,,,,,,Calle del Acuerdo,31,,,,,-3.7079627,40.4289478,-412770,4500550,herbolario santa ana,1102
+POINT (-3.7079437 40.4290586),,convenience,,,,,,Calle del Acuerdo,33,,,,,-3.7079437,40.4290586,-412768,4500563,,1102
+POINT (-3.7079542 40.4289972),Fisioterapia y Osteopatía,massage,,,physiotherapist,,,Calle del Acuerdo,33,,,,,-3.7079542,40.4289972,-412769,4500556,fisioterapia y osteopatía,1102
+POINT (-3.7083499 40.4296937),Sprint,convenience,,,,,,,,,,,,-3.7083499,40.4296937,-412814,4500634,sprint,1102
+POINT (-3.7081811 40.4296802),SmyCenter,,dentist,,dentist,,,Calle de Alberto Aguilera,7,28015,,,,-3.7081811,40.4296802,-412795,4500632,smycenter,1102
+POINT (-3.7324583 40.4123403),,,pharmacy,,pharmacy,,,Paseo de Extremadura,92,28011,,,,-3.7324583,40.4123403,-415497,4498702,,452
+POINT (-3.7539051 40.4052522),Hola SuperBazar,convenience,,,,,,,,,,,,-3.7539051,40.4052522,-417885,4497913,hola superbazar,457
+POINT (-3.7522988 40.4072034),Jardín de Oriente,,restaurant,,,,,,,,,,asian,-3.7522988,40.4072034,-417706,4498130,jardín de oriente,457
+POINT (-3.7544 40.4043018),Bar Gero,,pub,,,,,,,,,,,-3.7544,40.4043018,-417940,4497807,bar gero,457
+POINT (-3.7535603 40.4056093),,bakery,,,,,,,,,,,,-3.7535603,40.4056093,-417846,4497952,,457
+POINT (-3.7537036 40.4058297),Cervecería Nabor,,pub,,,,,,,,,,,-3.7537036,40.4058297,-417862,4497977,cervecería nabor,457
+POINT (-3.753141 40.4058561),Dia,supermarket,,,,,,,,,Dia,,,-3.753141,40.4058561,-417800,4497980,dia,457
+POINT (-3.7540876 40.4044604),,tobacco,,,,,,,,,,Tabacos,,-3.7540876,40.4044604,-417905,4497825,,457
+POINT (-3.7545186 40.4044832),Centro Médico Estético Andrea Rodríguez,,clinic,,clinic,,,,,,,,,-3.7545186,40.4044832,-417953,4497827,centro médico estético andrea rodríguez,457
+POINT (-3.7537294 40.4061352),Centro Odontológico de Batán,,dentist,,dentist,,,,,,,,,-3.7537294,40.4061352,-417865,4498011,centro odontológico de batán,457
+POINT (-3.7530861 40.4056249),ONCE,lottery,,,,,,,,,ONCE,,,-3.7530861,40.4056249,-417794,4497954,once,457
+POINT (-3.7542121 40.4046623),Mercadito Batán,greengrocer,,,,,,,,,,,,-3.7542121,40.4046623,-417919,4497847,mercadito batán,457
+POINT (-3.7532282 40.4059449),Clínica dental Dr. M Carbajal,,dentist,,dentist,,,,,,,,,-3.7532282,40.4059449,-417809,4497990,clínica dental dr. m carbajal,457
+POINT (-3.7525165 40.4067261),Bodega Álvaro,alcohol,,,,,,,,,,,,-3.7525165,40.4067261,-417730,4498077,bodega álvaro,457
+POINT (-3.7530135 40.4066957),El rincón de Jessy,,pub,,,,,,,,,,,-3.7530135,40.4066957,-417785,4498073,el rincón de jessy,457
+POINT (-3.7525413 40.4069063),Peluquería Izara,hairdresser,,,,,,,,,,,,-3.7525413,40.4069063,-417733,4498097,peluquería izara,457
+POINT (-3.7533631 40.4066851),El Chollo de Batán,variety_store,,,,,,,,,,,,-3.7533631,40.4066851,-417824,4498072,el chollo de batán,457
+POINT (-3.7535934 40.4056609),Pescadería Rías Gallegas,seafood,,,,,,,,,,,,-3.7535934,40.4056609,-417850,4497958,pescadería rías gallegas,457
+POINT (-3.7526073 40.4068698),,kiosk,,,,,,,,,,Tabacos,,-3.7526073,40.4068698,-417740,4498093,,457
+POINT (-3.7518516 40.4073511),Alimentación y Bazar,convenience,,,,,,,,,,,,-3.7518516,40.4073511,-417656,4498146,alimentación y bazar,457
+POINT (-3.7316256 40.4126769),Alimentación La Montañesa,convenience,,,,,,,,,,,,-3.7316256,40.4126769,-415405,4498739,alimentación la montañesa,452
+POINT (-3.7324522 40.4123798),Bar Cervecería,,pub,,,,,,,,,,,-3.7324522,40.4123798,-415497,4498706,bar cervecería,452
+POINT (-3.7317759 40.4123106),Caixabank,,bank,,,,,,,,Caixabank,Caixabank,,-3.7317759,40.4123106,-415421,4498698,caixabank,452
+POINT (-3.7319499 40.4121851),Cajamar,,bank,,,,,Paseo de Extremadura,65,,Cajamar,,,-3.7319499,40.4121851,-415441,4498684,cajamar,452
+POINT (-3.7317327 40.4126411),Europa Autoservivio Frutas y verduras,greengrocer,,,,,,,,,,,,-3.7317327,40.4126411,-415416,4498735,europa autoservivio frutas y verduras,452
+POINT (-3.7318807 40.4126053),Galería Santander,furniture,,,,,,,,,,,,-3.7318807,40.4126053,-415433,4498731,galería santander,452
+POINT (-3.7322019 40.4120929),Gilgo,perfumery,,,,,,,,,,,,-3.7322019,40.4120929,-415469,4498674,gilgo,452
+POINT (-3.731765 40.4119795),Herbolario Aurora,herbalist,,,,,,,,,,,,-3.731765,40.4119795,-415420,4498662,herbolario aurora,452
+POINT (-3.7322905 40.4124339),Lina Marchena,hairdresser,,,,,,,,,,,,-3.7322905,40.4124339,-415479,4498712,lina marchena,452
+POINT (-3.7314331 40.4123885),Banco Santander,,bank,,,,,,,,Banco Santander,Santander,,-3.7314331,40.4123885,-415383,4498707,banco santander,452
+POINT (-3.732023 40.4125432),Stylo,shoes,,,,,,,,,,,,-3.732023,40.4125432,-415449,4498724,stylo,452
+POINT (-3.7321487 40.4125002),Vodafone,mobile_phone,,,,,,,,,Vodafone,,,-3.7321487,40.4125002,-415463,4498720,vodafone,452
+POINT (-3.7320449 40.4121373),,kiosk,,,,,,,,,,,,-3.7320449,40.4121373,-415451,4498679,,452
+POINT (-3.7537771 40.4062167),Carnicería Narcea,butcher,,,,,,,,,,,,-3.7537771,40.4062167,-417870,4498020,carnicería narcea,457
+POINT (-3.6130348 40.3707883),Xing,,restaurant,,,,,Avenida Ensanche de Vallecas,9,28051,,,,-3.6130348,40.3707883,-402203,4494076,xing,71
+POINT (-3.6121418 40.3703509),Nueva York,,restaurant,,,,,,,,,,,-3.6121418,40.3703509,-402104,4494027,nueva york,71
+POINT (-3.611938 40.3702508),,convenience,,,,,,,,,,,,-3.611938,40.3702508,-402081,4494016,,71
+POINT (-3.6128846 40.3707087),BBVA,,bank,,,,,,,,BBVA,BBVA,,-3.6128846,40.3707087,-402186,4494067,bbva,71
+POINT (-3.6127344 40.3706331),El Ensanche,,restaurant,,,,,,,,,,,-3.6127344,40.3706331,-402170,4494059,el ensanche,71
+POINT (-3.753911 40.4057769),Batan Döner Kebap,,fast_food,,,,,,,,,,kebab,-3.753911,40.4057769,-417885,4497971,batan döner kebap,457
+POINT (-3.7103543 40.4117268),Simma,,,,,estate_agent,,,,,,,,-3.7103543,40.4117268,-413037,4498633,simma,1179
+POINT (-3.709992 40.4115497),Taberna La Buha,,bar,,,,,Plaza de la Cebada,10,28005,,,,-3.709992,40.4115497,-412996,4498614,taberna la buha,1179
+POINT (-3.6954479 40.4219586),,,taxi,,,,,Calle de Prim,,,,Ayuntamiento de Madrid,,-3.6954479,40.4219586,-411377,4499772,,1183
+POINT (-3.7041373 40.4200117),Oysho,clothes,,,,,,,,,Oysho,,,-3.7041373,40.4200117,-412345,4499556,oysho,1156
+POINT (-3.6354234 40.3768582),Centro de Tratamiento Automatizado,,post_office,,,,,Camino de las Hormigueras,169,28031,Correos,Correos,,-3.6354234,40.3768582,-404695,4494752,centro de tratamiento automatizado,61
+POINT (-3.7020813 40.4198737),Bershka,clothes,,,,,,,,,Bershka,,,-3.7020813,40.4198737,-412116,4499540,bershka,1157
+POINT (-3.7538757 40.4063676),Dursucar,car_repair,,,,,,,,,,,,-3.7538757,40.4063676,-417881,4498037,dursucar,457
+POINT (-3.7539588 40.4063868),Vakauto,car_repair,,,,,,,,,,,,-3.7539588,40.4063868,-417891,4498039,vakauto,457
+POINT (-3.6966342 40.4262987),Bulevar,,bar,,,,,Calle de Santa Teresa,2,28004,,,,-3.6966342,40.4262987,-411509,4500256,bulevar,1087
+POINT (-3.6903528 40.4281119),Enso Sushi,,restaurant,,,,,Paseo de la Castellana,15,,,,japanese,-3.6903528,40.4281119,-410810,4500457,enso sushi,712
+POINT (-3.7109461 40.4116416),La Muralla,,restaurant,,,,,,,,,,,-3.7109461,40.4116416,-413103,4498624,la muralla,1179
+POINT (-3.710589 40.411831),La Potente,,restaurant,,,,,Calle de la Cava Baja,42,28005,,,,-3.710589,40.411831,-413063,4498645,la potente,1179
+POINT (-3.6958126 40.4218358),PrimaPrix,supermarket,,,,,,Calle del Barquillo,17,,,,,-3.6958126,40.4218358,-411418,4499759,primaprix,1183
+POINT (-3.6955709 40.4218481),Rocafría,,restaurant,,,,,,,,,,,-3.6955709,40.4218481,-411391,4499760,rocafría,1183
+POINT (-3.6938294 40.4122452),Losada,stationery,,,,,,,,,,,,-3.6938294,40.4122452,-411197,4498691,losada,1072
+POINT (-3.6344722 40.4453972),Lego,toys,,,,,,,,,Lego,,,-3.6344722,40.4453972,-404589,4502382,lego,276
+POINT (-3.7075095 40.4037901),Caixabank,,bank,,,,,,,,Caixabank,,,-3.7075095,40.4037901,-412720,4497750,caixabank,975
+POINT (-3.7057353 40.4921672),BBVA,,bank,,,,,Calle de Nuria,30,28034,BBVA,BBVA,,-3.7057353,40.4921672,-412522,4507588,bbva,158
+POINT (-3.7066776 40.4923),Banco Santander,,bank,,,,,Calle de Nuria,57,28034,Banco Santander,Santander,,-3.7066776,40.4923,-412627,4507603,banco santander,158
+POINT (-3.7058181 40.4918314),Lazcano,,restaurant,,,,,Calle de Nuria,51,28034,,,,-3.7058181,40.4918314,-412532,4507551,lazcano,158
+POINT (-3.7045768 40.4917368),Porche de Lazcano,,restaurant,,,,,Calle de Nuria,26,28034,,,,-3.7045768,40.4917368,-412393,4507540,porche de lazcano,158
+POINT (-3.7071041 40.4050311),Kibo,hairdresser,,,,,,,,,,,,-3.7071041,40.4050311,-412675,4497888,kibo,975
+POINT (-3.7072534 40.4035482),Chocolates Valor,,cafe,,,,,,,,,,,-3.7072534,40.4035482,-412691,4497723,chocolates valor,975
+POINT (-3.6119759 40.3721055),Bar de copas La EGB,,bar,,,,,Avenida de La Gavia,35,28051,,,,-3.6119759,40.3721055,-402085,4494223,bar de copas la egb,71
+POINT (-3.6937533 40.4122031),Doctor Fernando Caudevilla,,doctors,,doctor,,,Calle de la Alameda,3,28014,,,,-3.6937533,40.4122031,-411189,4498686,doctor fernando caudevilla,1072
+POINT (-3.6991697 40.4151932),Indian Spice,,restaurant,,,,,Calle de Manuel Fernández y González,17,28014,,,indian,-3.6991697,40.4151932,-411792,4499019,indian spice,1214
+POINT (-3.6992841 40.4598967),Cervecería Murillo,,pub,,,,,Calle de Bravo Murillo,271,28039,,,,-3.6992841,40.4598967,-411804,4503996,cervecería murillo,920
+POINT (-3.6992188 40.4598799),,newsagent,,,,,,,,,,,,-3.6992188,40.4598799,-411797,4503994,,920
+POINT (-3.7095978 40.3950305),Granier,bakery,,,,,,,,,Granier,,,-3.7095978,40.3950305,-412952,4496775,granier,569
+POINT (-3.6941561 40.4125483),"Radisson Blu Hotel, Madrid Prado",,,hotel,,,,Calle de Moratín,52,28014,Radisson Blu,,,-3.6941561,40.4125483,-411233,4498725,"radisson blu hotel, madrid prado",1072
+POINT (-3.7110999 40.3450858),The Velery Bar,,fast_food,,,,,Calle de Villastar,,,,,american,-3.7110999,40.3450858,-413120,4491215,the velery bar,131
+POINT (-3.7110895 40.3451844),Confecciones Yuste,clothes,,,,,,,,,,,,-3.7110895,40.3451844,-413118,4491226,confecciones yuste,131
+POINT (-3.7126087 40.3450011),Muebles y persianas,window_blind,,,,,,,,,,,,-3.7126087,40.3450011,-413288,4491206,muebles y persianas,131
+POINT (-3.7118582 40.3451568),Pasayma,doityourself,,,,,,,,,,,,-3.7118582,40.3451568,-413204,4491223,pasayma,131
+POINT (-3.7111118 40.3453327),Jessica,hairdresser,,,,,,,,,,,,-3.7111118,40.3453327,-413121,4491242,jessica,131
+POINT (-3.7111248 40.345385),,convenience,,,,,,,,,,,,-3.7111248,40.345385,-413122,4491248,,131
+POINT (-3.7105235 40.3457847),Ahorramás,supermarket,,,,,,,,,Ahorramás,,,-3.7105235,40.3457847,-413055,4491293,ahorramás,131
+POINT (-3.7092853 40.346293),BBVA,,bank,,,,,Paseo de Alberto Palacios,1,,BBVA,BBVA,,-3.7092853,40.346293,-412918,4491349,bbva,131
+POINT (-3.7110891 40.3459366),GAES,hearing_aids,,,,,,,,,GAES,,,-3.7110891,40.3459366,-413118,4491310,gaes,131
+POINT (-3.7101874 40.3459442),AXA,,,,,financial_advisor,,,,,,,,-3.7101874,40.3459442,-413018,4491311,axa,131
+POINT (-3.7100679 40.3461245),Banco Santander,,bank,,,,,,,,Banco Santander,Santander,,-3.7100679,40.3461245,-413005,4491331,banco santander,131
+POINT (-3.7094126 40.3453233),Dental Los Ángeles,,dentist,,dentist,,,,,,,,,-3.7094126,40.3453233,-412932,4491241,dental los ángeles,131
+POINT (-3.7111941 40.3456674),El pollito,,restaurant,,,,,,,,,,,-3.7111941,40.3456674,-413130,4491280,el pollito,131
+POINT (-3.707455 40.3459983),Icon Madrid,computer,,,,,,,,,,,,-3.707455,40.3459983,-412714,4491317,icon madrid,131
+POINT (-3.7071646 40.3463449),,,veterinary,,,,,,,,,,,-3.7071646,40.3463449,-412682,4491355,,131
+POINT (-3.7099307 40.3464812),Pétalos Arte Flor,florist,,,,,,,,,,,,-3.7099307,40.3464812,-412989,4491370,pétalos arte flor,131
+POINT (-3.7093251 40.3448748),Asador de Enrique,,restaurant,,,,,,,,,,,-3.7093251,40.3448748,-412922,4491191,asador de enrique,131
+POINT (-3.7072343 40.3449337),Alain Afflelou,optician,,,,,,,,,,,,-3.7072343,40.3449337,-412689,4491198,alain afflelou,131
+POINT (-3.7092396 40.3451183),Vivienda Madrid,,,,,estate_agent,,,,,,,,-3.7092396,40.3451183,-412913,4491219,vivienda madrid,131
+POINT (-3.7081303 40.3447822),Pueblos y culturas,books,,,,,,,,,,,,-3.7081303,40.3447822,-412789,4491181,pueblos y culturas,131
+POINT (-3.7084408 40.344976),,convenience,,,,,,,,,,,,-3.7084408,40.344976,-412824,4491203,,131
+POINT (-3.708069 40.3452166),Paola,hairdresser,,,,,,,,,,,,-3.708069,40.3452166,-412782,4491230,paola,131
+POINT (-3.7098866 40.4121108),La Bolita Negra,,pub,,,,,Calle de la Cava Baja,34,28005,,,,-3.7098866,40.4121108,-412985,4498676,la bolita negra,1179
+POINT (-3.7057098 40.4218661),Chiang Hu,,restaurant,,,,,Calle de Silva,25,28004,,,chinese,-3.7057098,40.4218661,-412520,4499762,chiang hu,1326
+POINT (-3.7095313 40.4122758),Taberna los Huevos de Lucio,,restaurant,,,,,Calle de la Cava Baja,30,28005,,,spanish,-3.7095313,40.4122758,-412945,4498695,taberna los huevos de lucio,1179
+POINT (-3.7535496 40.4058279),Parada de Taxi,,taxi,,,,,Calle de Villamanín,,,,Ayuntamiento de Madrid,,-3.7535496,40.4058279,-417845,4497977,parada de taxi,457
+POINT (-3.7080184 40.416244),La Caja de Vinos,alcohol,,,,,,Calle de San Felipe Neri,2,28013,,,,-3.7080184,40.416244,-412777,4499136,la caja de vinos,1225
+POINT (-3.7019599 40.4197789),Hotel Praktik Metropol,,,hotel,,,,Calle de la Montera,47,28013,,,,-3.7019599,40.4197789,-412102,4499530,hotel praktik metropol,1157
+POINT (-3.6936595 40.4127017),,newsagent,,,,,,,,,,,,-3.6936595,40.4127017,-411178,4498742,,1072
+POINT (-3.6935147 40.412373),,vacant,,,,,,Paseo del Prado,24,28014,,,,-3.6935147,40.412373,-411162,4498705,,1072
+POINT (-3.7083974 40.4215899),McDonald's,,fast_food,,,,,Gran Vía,55,28013,McDonald's,,burger,-3.7083974,40.4215899,-412819,4499731,mcdonald's,1257
+POINT (-3.6963999 40.426366),El Junco,,music_venue,,,,,Plaza de Santa Bárbara,10,28004,,,,-3.6963999,40.426366,-411483,4500263,el junco,1087
+POINT (-3.7077873 40.4299435),Cauca,,cafe,,,,,Calle de Alberto Aguilera,12,28015,,,,-3.7077873,40.4299435,-412751,4500661,cauca,1102
+POINT (-3.7079366 40.4296555),Cervecería Roldán,,bar,,,,,Calle de Alberto Aguilera,5,28015,,,,-3.7079366,40.4296555,-412768,4500629,cervecería roldán,1102
+POINT (-3.7077097 40.429935),Pomodoro,,restaurant,,,,,Calle de Alberto Aguilera,12,28015,Pomodoro,,italian;pasta;pizza,-3.7077097,40.429935,-412742,4500660,pomodoro,1102
+POINT (-3.7078443 40.4296388),Noname Bar,vacant,restaurant,,,,,Calle de Alberto Aguilera,5,28015,,,,-3.7078443,40.4296388,-412757,4500627,noname bar,1102
+POINT (-3.7086007 40.4326977),La terraza by la Zamorana,,restaurant,,,,,Calle de Vallehermoso,26,28015,,,regional,-3.7086007,40.4326977,-412841,4500968,la terraza by la zamorana,968
+POINT (-3.7085729 40.4217018),Poly,toys,,,,,,Gran Vía,55,28013,,,,-3.7085729,40.4217018,-412838,4499744,poly,1257
+POINT (-3.7082032 40.4187322),El Pato Mudo,,restaurant,,,,,Costanilla de los Ángeles,8,28013,,,regional,-3.7082032,40.4187322,-412797,4499413,el pato mudo,1265
+POINT (-3.7059087 40.4217104),Jota Batela,,restaurant,,,,,Calle de Silva,23,28004,,,regional,-3.7059087,40.4217104,-412542,4499745,jota batela,1326
+POINT (-3.7082735 40.4189491),La Galería,,bar,,,,,Costanilla de los Ángeles,9,28013,,,,-3.7082735,40.4189491,-412805,4499437,la galería,1265
+POINT (-3.70811 40.4189312),La Cervecería Deportiva,,bar,,,,,Costanilla de los Ángeles,12,28013,,,,-3.70811,40.4189312,-412787,4499435,la cervecería deportiva,1265
+POINT (-3.7083463 40.4187235),La Ciudad Invisible,books,cafe,,,,,Costanilla de los Ángeles,7,28013,,,,-3.7083463,40.4187235,-412813,4499412,la ciudad invisible,1265
+POINT (-3.704275 40.4196993),Hotel Regente,,,hotel,,,,Calle de Mesonero Romanos,9,28013,,,,-3.704275,40.4196993,-412360,4499521,hotel regente,1156
+POINT (-3.704125 40.4197225),Hotel Avenida Gran Vía,,,hotel,,,,Calle de Mesonero Romanos,14,28013,,,,-3.704125,40.4197225,-412343,4499524,hotel avenida gran vía,1156
+POINT (-3.7041942 40.4196133),Hotel Negresco Gran Vía,,,hotel,,,,Calle de Mesonero Romanos,12,28013,,,,-3.7041942,40.4196133,-412351,4499511,hotel negresco gran vía,1156
+POINT (-3.7030384 40.415252),Hostal Pan América,,,guest_house,,,,Calle de Carretas,27,28012,,,,-3.7030384,40.415252,-412222,4499026,hostal pan américa,1247
+POINT (-3.7030384 40.41519),Marina Rooms,,,guest_house,,,,Calle de Carretas,27,28012,,,,-3.7030384,40.41519,-412222,4499019,marina rooms,1247
+POINT (-3.705721 40.421641),Galería Cultural Dynasty,gift,,,,,,Plaza de Santa María Soledad Torres Acosta,2,28004,,,,-3.705721,40.421641,-412521,4499737,galería cultural dynasty,1326
+POINT (-3.6883051 40.4212837),Mallorca,bakery,,,,,,Calle de Serrano,6,,,,,-3.6883051,40.4212837,-410582,4499697,mallorca,913
+POINT (-3.6960153 40.4267799),Hostal Asunción,,,guest_house,,,,Plaza de Santa Bárbara,8,28004,,,,-3.6960153,40.4267799,-411440,4500309,hostal asunción,1087
+POINT (-3.6963237 40.4264491),Petit Palace Santa Bárbara,,,hotel,,,,Plaza de Santa Bárbara,10,28004,Petit Palace Hotelity,Hoteatelier,,-3.6963237,40.4264491,-411475,4500272,petit palace santa bárbara,1087
+POINT (-3.6973488 40.4259555),Patrimonio Comunal Olivarero,food,,,,,,Calle de Mejía Lequerica,1,28004,,,,-3.6973488,40.4259555,-411589,4500217,patrimonio comunal olivarero,1087
+POINT (-3.6139949 40.369882),Fresh Pizza,,fast_food,,,,,,,,,,,-3.6139949,40.369882,-402310,4493975,fresh pizza,71
+POINT (-3.69686 40.45032),Los Buenos Caldos,,restaurant,,,,,Calle de Edgar Neville,27,,,,regional,-3.69686,40.45032,-411534,4502930,los buenos caldos,739
+POINT (-3.6575566 40.3930149),Mesón Puerto de Foncebadón,,restaurant,,,,,,,,,,regional,-3.6575566,40.3930149,-407159,4496550,mesón puerto de foncebadón,611
+POINT (-3.6349748 40.4451731),El Botero,,restaurant,,,,,,,,,,regional,-3.6349748,40.4451731,-404645,4502357,el botero,276
+POINT (-3.7039656 40.4483141),Modelisa,clothes,,,,,,,,,,,,-3.7039656,40.4483141,-412325,4502706,modelisa,933
+POINT (-3.7039722 40.4482349),Paparazzi,clothes,,,,,,,,,,,,-3.7039722,40.4482349,-412326,4502698,paparazzi,933
+POINT (-3.7039624 40.4483484),De Lancome,clothes,,,,,,,,,,,,-3.7039624,40.4483484,-412325,4502710,de lancome,933
+POINT (-3.7039531 40.4483907),Rubí,,cafe,,,,,,,,,,,-3.7039531,40.4483907,-412324,4502715,rubí,933
+POINT (-3.7528707 40.4068481),Autoservicio bazar Batan,convenience,,,,,,,,,,,,-3.7528707,40.4068481,-417770,4498090,autoservicio bazar batan,457
+POINT (-3.6955593 40.4227387),Librería Taschen,books,,,,,,Calle del Barquillo,30,28004,,,,-3.6955593,40.4227387,-411390,4499859,librería taschen,1183
+POINT (-3.754426 40.4043514),Carnicería Calidade,butcher,,,,,,,,,,,,-3.754426,40.4043514,-417943,4497812,carnicería calidade,457
+POINT (-3.6995959 40.4598),Madina Frutas y Verduras,greengrocer,,,,,,Calle de los Algodonales,1,28039,,,,-3.6995959,40.4598,-411839,4503985,madina frutas y verduras,920
+POINT (-3.6995586 40.4596642),Shopping,clothes,,,,,,Calle de Bravo Murillo,267,28039,,,,-3.6995586,40.4596642,-411835,4503970,shopping,920
+POINT (-3.6995355 40.459683),Asociación Puente de Esperanza Madrid,,,,,ngo,,Calle de Bravo Murillo,267,28039,,,,-3.6995355,40.459683,-411832,4503972,asociación puente de esperanza madrid,920
+POINT (-3.6993854 40.4597985),,clothes,,,,,,Calle de los Algodonales,271,28039,,,,-3.6993854,40.4597985,-411816,4503985,,920
+POINT (-3.6993559 40.4598307),Pajarería Selva,pet,,,,,,Calle de Bravo Murillo,271,28039,,,,-3.6993559,40.4598307,-411812,4503988,pajarería selva,920
+POINT (-3.701824 40.4198548),McDonald's,,fast_food,,,,,,,,McDonald's,,burger,-3.701824,40.4198548,-412087,4499538,mcdonald's,1157
+POINT (-3.696352 40.4110325),,,post_box,,,,,,,,,,,-3.696352,40.4110325,-411478,4498556,,1132
+POINT (-3.6466877 40.3995562),Prensa,kiosk,,,,,,,,,,,,-3.6466877,40.3995562,-405949,4497279,prensa,289
+POINT (-3.6466569 40.3998401),Belén,,pub,,,,,Calle de la Encomienda de Palacios,14,28030,,,,-3.6466569,40.3998401,-405946,4497310,belén,289
+POINT (-3.7066599 40.404911),Vips,,restaurant,,,,,,,,Vips,,international,-3.7066599,40.404911,-412625,4497875,vips,975
+POINT (-3.6888513 40.4204915),,,post_box,,,,,,,,Correos,Correos,,-3.6888513,40.4204915,-410643,4499609,,913
+POINT (-3.6348392 40.4444593),Casa Elías,,restaurant,,,,,,,,,,,-3.6348392,40.4444593,-404630,4502277,casa elías,276
+POINT (-3.6349675 40.4444765),Rodilla,,fast_food,,,,,,,,Rodilla,,sandwich,-3.6349675,40.4444765,-404645,4502279,rodilla,276
+POINT (-3.6350315 40.4443593),,,post_box,,,,,,,,Correos,Correos,,-3.6350315,40.4443593,-404652,4502266,,276
+POINT (-3.7132333 40.3484725),Bar La Conquista,,cafe,,,,,,,,,,,-3.7132333,40.3484725,-413357,4491592,bar la conquista,122
+POINT (-3.6579354 40.3929992),Ciclos Corredor,bicycle,,,,,,Calle de Dolores Folgueras,20,28038,,,,-3.6579354,40.3929992,-407201,4496549,ciclos corredor,611
+POINT (-3.7133172 40.3484943),,greengrocer,,,,,,,,,,,,-3.7133172,40.3484943,-413366,4491594,,122
+POINT (-3.7133304 40.3487209),Librería Papelería Géminis,stationery,,,,,,,,,,,,-3.7133304,40.3487209,-413368,4491620,librería papelería géminis,122
+POINT (-3.7133304 40.3485982),Vertical Bar de copas,,bar,,,,,,,,,,,-3.7133304,40.3485982,-413368,4491606,vertical bar de copas,122
+POINT (-3.6711813 40.5079175),,,pharmacy,,,,,Avenida Camino de Santiago,45,28050,,,,-3.6711813,40.5079175,-408676,4509341,,145
+POINT (-3.7129262 40.349062),,greengrocer,,,,,,,,,,,,-3.7129262,40.349062,-413323,4491658,,122
+POINT (-3.7124042 40.3490952),Cafetería San Jorge,,cafe,,,,,,,,,,,-3.7124042,40.3490952,-413265,4491661,cafetería san jorge,122
+POINT (-3.7122065 40.3491052),Bar Javi,,cafe,,,,,,,,,,,-3.7122065,40.3491052,-413243,4491662,bar javi,122
+POINT (-3.7062585 40.4924437),,,pharmacy,,pharmacy,,,Calle de Nuria,34,28034,,,,-3.7062585,40.4924437,-412581,4507619,,158
+POINT (-3.7118499 40.3491195),Alimentación Sol,convenience,,,,,,,,,,,,-3.7118499,40.3491195,-413203,4491664,alimentación sol,122
+POINT (-3.7117789 40.3490899),Sol,,restaurant,,,,,,,,,,chinese,-3.7117789,40.3490899,-413195,4491661,sol,122
+POINT (-3.6518705 40.4251337),Farmacia Ruiz Rodríguez,,pharmacy,,pharmacy,,,Calle de María Teresa Sáenz de Heredia,49,28017,,,,-3.6518705,40.4251337,-406526,4500126,farmacia ruiz rodríguez,305
+POINT (-3.6522601 40.425192),Autoservicio Alimentación,variety_store,,,,,,,,,,,,-3.6522601,40.425192,-406570,4500132,autoservicio alimentación,305
+POINT (-3.6515648 40.4255603),Autoservicio Alimentación,variety_store,,,,,,,,,,,,-3.6515648,40.4255603,-406492,4500173,autoservicio alimentación,305
+POINT (-3.6519902 40.425931),Adm. Loterías - 453,lottery,,,,,,,,,,,,-3.6519902,40.425931,-406540,4500215,adm. loterías - 453,305
+POINT (-3.7117658 40.3490006),Electro-Coher,electronics,,,,,,,,,,,,-3.7117658,40.3490006,-413194,4491651,electro-coher,122
+POINT (-3.7117678 40.3488546),Pinturas Martínez,paint,,,,,,,,,,,,-3.7117678,40.3488546,-413194,4491634,pinturas martínez,122
+POINT (-3.7119634 40.4726724),,,pharmacy,,pharmacy,,,Avenida de Betanzos,8,28029,,,,-3.7119634,40.4726724,-413216,4505418,,449
+POINT (-3.6507128 40.4245092),Farmacia Zazo Lázaro Beatriz,,pharmacy,,pharmacy,,,Calle de Santa Felicidad,30,28017,,,,-3.6507128,40.4245092,-406397,4500056,farmacia zazo lázaro beatriz,305
+POINT (-3.6510543 40.4257406),Bazar La Elipa,variety_store,,,,,,,,,,,,-3.6510543,40.4257406,-406435,4500193,bazar la elipa,305
+POINT (-3.650728 40.4263135),Horno La Gloria,bakery,,,,,,,,,,,,-3.650728,40.4263135,-406399,4500257,horno la gloria,305
+POINT (-3.6509099 40.4261804),Lledo,optician,,,,,,,,,,,,-3.6509099,40.4261804,-406419,4500242,lledo,305
+POINT (-3.6959354 40.4226551),Restaurante el Cisne Azul,,restaurant,,,,,Calle de Gravina,27,28004,,,,-3.6959354,40.4226551,-411432,4499850,restaurante el cisne azul,1183
+POINT (-3.6011891 40.4268257),,,pharmacy,,pharmacy,,,Calle de Sofía,195,28022,,,,-3.6011891,40.4268257,-400884,4500314,,219
+POINT (-3.6503086 40.4264777),Farmacia La Elipa Ana Sendino,,pharmacy,,pharmacy,,,Avenida del Marqués de Corbera,60,28017,,,,-3.6503086,40.4264777,-406352,4500275,farmacia la elipa ana sendino,305
+POINT (-3.6956363 40.4232305),,,pharmacy,,pharmacy,,,Calle del Barquillo,31,28004,,,,-3.6956363,40.4232305,-411398,4499914,,1183
+POINT (-3.6944937 40.423787),,,pharmacy,,pharmacy,,,Plaza de las Salesas,7,28004,,,,-3.6944937,40.423787,-411271,4499976,,1091
+POINT (-3.7076746 40.4294677),,,pharmacy,,,,,Calle del Acuerdo,38,28015,,,,-3.7076746,40.4294677,-412738,4500608,,1102
+POINT (-3.7085232 40.4327218),Farmacia Arapiles,,pharmacy,,pharmacy,,,Calle de Arapiles,21,28015,,,,-3.7085232,40.4327218,-412833,4500971,farmacia arapiles,968
+POINT (-3.7210194 40.4298224),,,pharmacy,,pharmacy,,,Calle de Ferraz,53,28008,,,,-3.7210194,40.4298224,-414224,4500648,,993
+POINT (-3.7085235 40.416344),,,pharmacy,,pharmacy,,,Plaza de Herradores,2,28013,,,,-3.7085235,40.416344,-412833,4499147,,1225
+POINT (-3.6454779 40.3990172),,,pharmacy,,pharmacy,,,Calle del Arroyo Fontarrón,159,28030,,,,-3.6454779,40.3990172,-405815,4497219,,289
+POINT (-3.6450818 40.4003543),,,pharmacy,,pharmacy,,,Calle de la Encomienda de Palacios,46,28030,,,,-3.6450818,40.4003543,-405771,4497367,,289
+POINT (-3.693402 40.4120454),Farmacia del Prado,,pharmacy,,pharmacy,,,Paseo del Prado,26,28014,,,,-3.693402,40.4120454,-411150,4498669,farmacia del prado,1072
+POINT (-3.7101785 40.4113505),Frutos Secos Las 4 fanegas,general,,,,,,,,,,,,-3.7101785,40.4113505,-413017,4498592,frutos secos las 4 fanegas,1179
+POINT (-3.7101141 40.4113439),Jardín de Sala,florist,,,,,,,,,,,,-3.7101141,40.4113439,-413010,4498591,jardín de sala,1179
+POINT (-3.7098831 40.4113201),Alfombras A. Velasco,carpet,,,,,,,,,,,,-3.7098831,40.4113201,-412984,4498588,alfombras a. velasco,1179
+POINT (-3.703333 40.4151837),,,pharmacy,,pharmacy,,,Calle de Carretas,12,28012,,,,-3.703333,40.4151837,-412255,4499018,,1247
+POINT (-3.7065559 40.403627),,,pharmacy,,pharmacy,,,Paseo de la Esperanza,2,28005,,,,-3.7065559,40.403627,-412614,4497732,,975
+POINT (-3.7540226 40.4047379),,,pharmacy,,pharmacy,,,Calle de Villagarcía,2,28011,,,,-3.7540226,40.4047379,-417898,4497855,,457
+POINT (-3.7520862 40.4072475),,,pharmacy,,pharmacy,,,Calle de Villamanín,31,28011,,,,-3.7520862,40.4072475,-417682,4498135,,457
+POINT (-3.7536751 40.4057767),,,pharmacy,,pharmacy,,,Calle de Villamanín,54,28011,,,,-3.7536751,40.4057767,-417859,4497971,,457
+POINT (-3.6879485 40.3858488),,,pharmacy,,pharmacy,,,Calle Puerto Serrano,3,28045,,,,-3.6879485,40.3858488,-410542,4495753,,299
+POINT (-3.7106526 40.4119249),La Mazeta,,bar,,,,,Plaza del Humilladero,4,28005,,,,-3.7106526,40.4119249,-413070,4498655,la mazeta,1179
+POINT (-3.7307658 40.3965741),,,pharmacy,,pharmacy,,,Calle del Cabo Suceso Terrero,3,28019,,,,-3.7307658,40.3965741,-415309,4496947,,504
+POINT (-3.7626685 40.3908319),,,pharmacy,,pharmacy,,,Calle de Maqueda,83,28024,,,,-3.7626685,40.3908319,-418860,4496307,,266
+POINT (-3.7111239 40.3454213),Pajarería Amazonia,pet,,,,,,,,,,,,-3.7111239,40.3454213,-413122,4491252,pajarería amazonia,131
+POINT (-3.7079019 40.3457907),Pajarería Acuario Sierra,pet,,,,,,,,,,,,-3.7079019,40.3457907,-412764,4491293,pajarería acuario sierra,131
+POINT (-3.6124358 40.3715906),,,pharmacy,,pharmacy,,,Calle de La Adrada,26,28051,,,,-3.6124358,40.3715906,-402136,4494165,,71
+POINT (-3.7091678 40.3459623),,,pharmacy,,pharmacy,,,Avenida de la Espinela,4,28021,,,,-3.7091678,40.3459623,-412905,4491313,,131
+POINT (-3.6909304 40.3750837),,,pharmacy,,pharmacy,,,Calle de Carabelos,41,28041,,,,-3.6909304,40.3750837,-410874,4494554,,116
+POINT (-3.7128393 40.3484715),,,pharmacy,,pharmacy,,,Calle de la Huerta de Villaverde,50,28021,,,,-3.7128393,40.3484715,-413313,4491592,,122
+POINT (-3.7064331 40.3483966),,,pharmacy,,,,,Calle de la Plata,14,28021,,,,-3.7064331,40.3483966,-412600,4491584,,131
+POINT (-3.6921795 40.372922),,,pharmacy,,pharmacy,,,Calle de Taconera,16,28041,,,,-3.6921795,40.372922,-411013,4494314,,116
+POINT (-3.7109754 40.3468851),,,pharmacy,,pharmacy,,,Paseo de las Moreras,6,28021,,,,-3.7109754,40.3468851,-413106,4491415,,131
+POINT (-3.7508546 40.3745534),,,pharmacy,,pharmacy,,,Calle de Eugenia de Montijo,97,28044,,,,-3.7508546,40.3745534,-417545,4494495,,518
+POINT (-3.7514845 40.3738453),,,pharmacy,,pharmacy,,,Plaza de la Emperatriz,10,28044,,,,-3.7514845,40.3738453,-417615,4494416,,518
+POINT (-3.7044442 40.419706),Motion Hostels,,,guest_house,,,,Calle de Mesonero Romanos,7,28013,,,,-3.7044442,40.419706,-412379,4499522,motion hostels,1156
+POINT (-3.7058259 40.4217698),,vacant,,,,,,Calle de Silva,23,28004,,,,-3.7058259,40.4217698,-412533,4499751,,1326
+POINT (-3.7058658 40.4216136),José Alfredo,,bar,,,,,Calle de Silva,22,28004,,,,-3.7058658,40.4216136,-412537,4499734,josé alfredo,1326
+POINT (-3.7085111 40.4216627),Zapshop,shoes,,,,,,Gran Vía,55,28013,,,,-3.7085111,40.4216627,-412831,4499739,zapshop,1257
+POINT (-3.6842812 40.418556),"Barcas de remos, entrada",ticket,,,,,,,,,,,,-3.6842812,40.418556,-410134,4499394,"barcas de remos, entrada",211
+POINT (-3.7083548 40.3453609),Centro G. Óptico Universal,optician,,,,,,,,,,,,-3.7083548,40.3453609,-412814,4491246,centro g. óptico universal,131
+POINT (-3.7080441 40.3451241),,car_repair,,,,,,,,,,,,-3.7080441,40.3451241,-412779,4491219,,131
+POINT (-3.6942495 40.3745717),Parque Estafeta,,,,,,park,,,,,,,-3.6942495,40.3745717,-411244,4494497,parque estafeta,116
+POINT (-3.7078904 40.42937),Miau,,cafe,,,,,Calle del Acuerdo,39,28015,,,,-3.7078904,40.42937,-412762,4500597,miau,1102
+POINT (-3.7079155 40.4292232),Los Claveles,,bar,,,,,Calle del Acuerdo,,28015,,,,-3.7079155,40.4292232,-412765,4500581,los claveles,1102
+POINT (-3.707997 40.4287851),La Parada,,bar,,,,,Calle del Acuerdo,31,28015,,,,-3.707997,40.4287851,-412774,4500532,la parada,1102
+POINT (-3.7077288 40.4290587),La Abacería,,restaurant,,,,,Calle del Acuerdo,36,28015,,,regional,-3.7077288,40.4290587,-412744,4500563,la abacería,1102
+POINT (-3.7077422 40.4289362),Taberna Acuerdo,,bar,,,,,Calle del Acuerdo,36,28015,,,,-3.7077422,40.4289362,-412746,4500549,taberna acuerdo,1102
+POINT (-3.7042187 40.4200164),,vacant,,,,,,Gran Vía,33,28013,,,,-3.7042187,40.4200164,-412354,4499556,,1156
+POINT (-3.7019706 40.4197217),Go Inn,,,guest_house,,,,Calle de la Montera,47,28013,,,,-3.7019706,40.4197217,-412103,4499523,go inn,1157
+POINT (-3.7018955 40.4197707),Hotel Montera Madrid,,,guest_house,,,,Calle de la Montera,47,28013,,Curio Collection by Hilton,,-3.7018955,40.4197707,-412095,4499529,hotel montera madrid,1157
+POINT (-3.7019062 40.4197115),Hostal Luis XV,,,guest_house,,,,Calle de la Montera,47,28013,,,,-3.7019062,40.4197115,-412096,4499522,hostal luis xv,1157
+POINT (-3.7044032 40.4200304),Punt Roma,clothes,,,,,,Gran Vía,33,28013,Punt Roma,,,-3.7044032,40.4200304,-412374,4499558,punt roma,1156
+POINT (-3.7041013 40.4192628),Ribs,,restaurant,,,,,Calle Abada,8,28013,,,,-3.7041013,40.4192628,-412341,4499472,ribs,1156
+POINT (-3.6955945 40.4219828),Cava de Puros Barquillo,tobacco,,,,,,Calle del Barquillo,22,28004,,,,-3.6955945,40.4219828,-411394,4499775,cava de puros barquillo,1183
+POINT (-3.6957459 40.421977),Ovalamp,lighting,,,,,,,,,,,,-3.6957459,40.421977,-411410,4499774,ovalamp,1183
+POINT (-3.6942244 40.4237248),Handmade Beauty,beauty,,,,,,,,,,,,-3.6942244,40.4237248,-411241,4499969,handmade beauty,1091
+POINT (-3.6943865 40.4237616),Teide - Madrid,,bar,,,,,,,,,,,-3.6943865,40.4237616,-411259,4499973,teide - madrid,1091
+POINT (-3.7042697 40.4197692),Tablao Torres Bermejas,,theatre,,,,,Calle de Mesonero Romanos,11,28013,,,,-3.7042697,40.4197692,-412359,4499529,tablao torres bermejas,1156
+POINT (-3.7042439 40.4195382),Opticor,optician,,,,,,,,,,,,-3.7042439,40.4195382,-412356,4499503,opticor,1156
+POINT (-3.704522 40.4196288),La Quintina,,restaurant,,,,,Calle de Mesonero Romanos,7,,,,,-3.704522,40.4196288,-412387,4499513,la quintina,1156
+POINT (-3.6885623 40.420602),,,taxi,,,,,Calle de Serrano,,,,Ayuntamiento de Madrid,,-3.6885623,40.420602,-410611,4499621,,913
+POINT (-3.6883423 40.4206223),Cappuccino Grand Café,,cafe,,,,,Plaza de la Independencia,5,28001,,,,-3.6883423,40.4206223,-410586,4499624,cappuccino grand café,913
+POINT (-3.7272949 40.445244),,,post_box,,,,,,,,,,,-3.7272949,40.445244,-414922,4502365,,87
+POINT (-3.7017004 40.4269219),Caffé del Arte,,cafe,,,,,Calle de Fuencarral,93,28004,,Ambarlis S.L.,,-3.7017004,40.4269219,-412073,4500325,caffé del arte,1338
+POINT (-3.7017062 40.42688),Vira Vira,,fast_food,,,,,Calle de Fuencarral,93,28004,,,,-3.7017062,40.42688,-412074,4500320,vira vira,1338
+POINT (-3.7017099 40.4267374),Juicy Avenue,,bar,,,,,Calle de Fuencarral,93,28004,,,,-3.7017099,40.4267374,-412074,4500304,juicy avenue,1338
+POINT (-3.7020322 40.4266768),Biba Vintage,clothes,,,,,,Calle de Velarde,1,28004,,,,-3.7020322,40.4266768,-412110,4500298,biba vintage,1338
+POINT (-3.701867 40.4266605),Dadá,clothes,,,,,,Calle de Velarde,1,28004,,,,-3.701867,40.4266605,-412092,4500296,dadá,1338
+POINT (-3.7022453 40.4267006),Drei,hairdresser,,,,,,Calle de Velarde,3,28004,,,,-3.7022453,40.4267006,-412134,4500300,drei,1338
+POINT (-3.7021479 40.4267707),Kinda Kinks,clothes,,,,,,Calle de Velarde,6,28004,,,,-3.7021479,40.4267707,-412123,4500308,kinda kinks,1338
+POINT (-3.7019181 40.4267506),La mona checa,clothes,,,,,,Calle de Velarde,2,28004,,,,-3.7019181,40.4267506,-412098,4500306,la mona checa,1338
+POINT (-3.7021326 40.4266881),Pinta en copas,craft,,,,,,Calle de Velarde,3,28004,,,,-3.7021326,40.4266881,-412121,4500299,pinta en copas,1338
+POINT (-3.7019533 40.4266704),Loop,clothes,,,,,,Calle de Velarde,1,28004,,,,-3.7019533,40.4266704,-412101,4500297,loop,1338
+POINT (-3.7020618 40.4267624),Williamsburg,clothes,,,,,,Calle de Velarde,4,28004,,,,-3.7020618,40.4267624,-412114,4500307,williamsburg,1338
+POINT (-3.7023662 40.4267123),Magpie,clothes,,,,,,Calle de Velarde,3,28004,,,,-3.7023662,40.4267123,-412147,4500302,magpie,1338
+POINT (-3.7023902 40.4267927),Numbers,shoes,,,,,,Calle de Velarde,10,28004,,,,-3.7023902,40.4267927,-412150,4500311,numbers,1338
+POINT (-3.7024866 40.4268012),Parda,clothes,,,,,,Calle de Velarde,12,28004,,,,-3.7024866,40.4268012,-412161,4500312,parda,1338
+POINT (-3.7071739 40.403884),Miscota,pet,,,,,,,,,,,,-3.7071739,40.403884,-412683,4497760,miscota,975
+POINT (-3.7067757 40.4040144),Druni,perfumery,,,,,,,,,Druni,,,-3.7067757,40.4040144,-412638,4497775,druni,975
+POINT (-3.7069978 40.4039331),McDonald's,,fast_food,,,,,,,,McDonald's,,burger,-3.7069978,40.4039331,-412663,4497766,mcdonald's,975
+POINT (-3.7117745 40.4728833),Ferretería Álvaro,hardware,,,,,,,,,,,,-3.7117745,40.4728833,-413195,4505441,ferretería álvaro,449
+POINT (-3.712264 40.4727481),,clothes,,,,,,Avenida de Betanzos,13,28029,,,,-3.712264,40.4727481,-413249,4505426,,449
+POINT (-3.7118064 40.4730139),,convenience,,,,,,,,,,,,-3.7118064,40.4730139,-413198,4505456,,449
+POINT (-3.7037454 40.4194585),Hostal Mendoza,,,guest_house,,,,Calle de Chinchilla,4,28013,,,,-3.7037454,40.4194585,-412301,4499494,hostal mendoza,1156
+POINT (-3.7037901 40.4193894),Hostal Regio,,,guest_house,,,,Calle de Chinchilla,4,28013,,,,-3.7037901,40.4193894,-412306,4499486,hostal regio,1156
+POINT (-3.7039701 40.4193117),Puerto Rico,,restaurant,,,,,Calle de Chinchilla,2,28013,,,regional,-3.7039701,40.4193117,-412326,4499478,puerto rico,1156
+POINT (-3.708322 40.4161213),The Good Burger,,fast_food,,,,,Calle Mayor,38,28013,The Good Burger,,burger,-3.708322,40.4161213,-412810,4499123,the good burger,1225
+POINT (-3.6919153 40.4289701),d'Abbey Bar,,bar,,,,,Calle de Monte Esquinza,26,,,,,-3.6919153,40.4289701,-410984,4500553,d'abbey bar,712
+POINT (-3.7085184 40.3447822),Cortinas Doiga,curtain,,,,,,,,,,,,-3.7085184,40.3447822,-412832,4491181,cortinas doiga,131
+POINT (-3.7083227 40.3447599),G. Óptica Universal,optician,,,,,,,,,,,,-3.7083227,40.3447599,-412810,4491179,g. óptica universal,131
+POINT (-3.7088514 40.3450164),IE viajes,travel_agency,,,,,,,,,,,,-3.7088514,40.3450164,-412869,4491207,ie viajes,131
+POINT (-3.7091865 40.34487),Grupo Ocaso,,,,,insurance,,,,,,,,-3.7091865,40.34487,-412907,4491191,grupo ocaso,131
+POINT (-3.7086014 40.3447903),Tien 21,appliance,,,,,,,,,,,,-3.7086014,40.3447903,-412842,4491182,tien 21,131
+POINT (-3.7116617 40.3450743),Peluquería y Estética,hairdresser,,,,,,,,,,,,-3.7116617,40.3450743,-413182,4491214,peluquería y estética,131
+POINT (-3.7098236 40.4118436),Cavalta 27,,pub,,,,,Calle de la Cava Alta,27,28005,,,,-3.7098236,40.4118436,-412978,4498646,cavalta 27,1179
+POINT (-3.6853337 40.4520067),Germán Joyeros,jewelry,,,,,,,,,,,,-3.6853337,40.4520067,-410251,4503117,germán joyeros,607
+POINT (-3.6845141 40.4515867),Bentley Madrid,car,,,,,,Avenida de Concha Espina,20,,Bentley,,,-3.6845141,40.4515867,-410160,4503071,bentley madrid,607
+POINT (-3.6850765 40.4520022),,car,,,,,,,,,Ssangyong,Quickmotor,,-3.6850765,40.4520022,-410223,4503117,,607
+POINT (-3.7093265 40.4123644),,vacant,,,,,,Calle de la Cava Baja,28,28005,,,,-3.7093265,40.4123644,-412922,4498704,,1179
+POINT (-3.7100993 40.4119079),La Pecera,,pub,,,,,Calle de la Cava Baja,43,28005,,,,-3.7100993,40.4119079,-413008,4498654,la pecera,1179
+POINT (-3.7062313 40.3457948),Alimentación LP,convenience,,,,,,,,,,,,-3.7062313,40.3457948,-412578,4491294,alimentación lp,131
+POINT (-3.7062875 40.3460532),Centro de estética Jubel,beauty,,,,,,,,,,,,-3.7062875,40.3460532,-412584,4491323,centro de estética jubel,131
+POINT (-3.7061916 40.3459001),Clínica Dental Moferdent,,dentist,,dentist,,,,,,,,,-3.7061916,40.3459001,-412573,4491306,clínica dental moferdent,131
+POINT (-3.7086991 40.3448005),Dental studio,,dentist,,dentist,,,,,,,,,-3.7086991,40.3448005,-412852,4491183,dental studio,131
+POINT (-3.7062446 40.345769),Kaly,,cafe,,,,,,,,,,,-3.7062446,40.345769,-412579,4491291,kaly,131
+POINT (-3.7073821 40.3449366),Localtec,,,,,company,,Calle de Parvillas Altas,2,28021,,,,-3.7073821,40.3449366,-412706,4491198,localtec,131
+POINT (-3.7077781 40.344919),Mama Pizza,,restaurant,,,,,,,,,,pizza,-3.7077781,40.344919,-412750,4491196,mama pizza,131
+POINT (-3.7062115 40.3458326),Prink,printer_ink,,,,,,,,,Prink,,,-3.7062115,40.3458326,-412575,4491298,prink,131
+POINT (-3.7075367 40.344914),Salma Kebab,,fast_food,,,,,,,,,,kebab,-3.7075367,40.344914,-412723,4491196,salma kebab,131
+POINT (-3.7060649 40.3462338),Julianin,newsagent,,,,,,,,,,,,-3.7060649,40.3462338,-412559,4491343,julianin,131
+POINT (-3.7064237 40.346742),Caja Astur,,bank,,,,,,,,,,,-3.7064237,40.346742,-412599,4491399,caja astur,131
+POINT (-3.7064401 40.3474558),Dia Market,supermarket,,,,,,,,,Dia Market,,,-3.7064401,40.3474558,-412601,4491479,dia market,131
+POINT (-3.7058508 40.3479423),Engrases Uceda Lavado,car_repair,,,,,,,,,,,,-3.7058508,40.3479423,-412535,4491533,engrases uceda lavado,131
+POINT (-3.7063955 40.3476674),Restaurante Real Pinto,,restaurant,,,,,,,,,,,-3.7063955,40.3476674,-412596,4491502,restaurante real pinto,131
+POINT (-3.7073977 40.4295818),Ingletes,,clinic,,clinic,,,Calle de Alberto Aguilera,3,28015,,,,-3.7073977,40.4295818,-412708,4500621,ingletes,1102
+POINT (-3.7131432 40.3484726),,bakery,,,,,,,,,,,,-3.7131432,40.3484726,-413347,4491592,,122
+POINT (-3.71111 40.3449715),Frutas y Verduras Tu Frutería,greengrocer,,,,,,,,,,,,-3.71111,40.3449715,-413121,4491202,frutas y verduras tu frutería,131
+POINT (-3.6847781 40.4515958),"AKI Madrid Automoción, S.L.",car,,,,,,Avenida de Concha Espina,20,,Kia,,,-3.6847781,40.4515958,-410189,4503072,"aki madrid automoción, s.l.",607
+POINT (-3.7104677 40.4122298),Acuarela,,pub,,,,,,,,,,,-3.7104677,40.4122298,-413049,4498689,acuarela,1179
+POINT (-3.7099514 40.4118776),Carmencita Brunch,,restaurant,,,,,Calle de la Cava Alta,32,28005,,,,-3.7099514,40.4118776,-412992,4498650,carmencita brunch,1179
+POINT (-3.7105293 40.4121157),,vacant,,,,,,Calle del Almendro,25,28005,,,,-3.7105293,40.4121157,-413056,4498677,,1179
+POINT (-3.7099371 40.4119792),Taberna Bayuca,,pub,,,,,,,,,,,-3.7099371,40.4119792,-412990,4498662,taberna bayuca,1179
+POINT (-3.7106671 40.4121505),Taberna Aranda,,bar,,,,,Calle del Almendro,,28005,,,,-3.7106671,40.4121505,-413071,4498681,taberna aranda,1179
+POINT (-3.6980313 40.4511908),Bar barbaroja,,restaurant,,,,,Calle del Aviador Zorita,42,28020,,,,-3.6980313,40.4511908,-411665,4503027,bar barbaroja,739
+POINT (-3.6879591 40.4217288),Quispe,,restaurant,,,,,Calle del Conde de Aranda,4,28001,,,peruvian,-3.6879591,40.4217288,-410544,4499747,quispe,913
+POINT (-3.6888278 40.4207157),Patio de Leones,,restaurant,,,,,Calle de Serrano,1,28001,,,spanish,-3.6888278,40.4207157,-410640,4499634,patio de leones,913
+POINT (-3.6889616 40.4206959),Market Café,,cafe,,,,,Plaza de la Independencia,4,28001,,,,-3.6889616,40.4206959,-410655,4499632,market café,913
+POINT (-3.6891359 40.420658),Ramses,,restaurant,,,,,Plaza de la Independencia,,28001,,,,-3.6891359,40.420658,-410675,4499628,ramses,913
+POINT (-3.7083349 40.4159717),Torrons Vicens,food,,,,,,Calle Mayor,43,28013,,,,-3.7083349,40.4159717,-412812,4499106,torrons vicens,1225
+POINT (-3.7084421 40.4160911),Amorino,ice_cream,,,,,,Calle Mayor,40,28013,,,,-3.7084421,40.4160911,-412824,4499119,amorino,1225
+POINT (-3.6988885 40.4152317),Hostal Lisboa,,,guest_house,,,,Calle de Ventura de la Vega,17,28014,,,,-3.6988885,40.4152317,-411760,4499024,hostal lisboa,1214
+POINT (-3.7064786 40.4921897),Caixabank,,bank,,,,,Calle de Nuria,55,28034,Caixabank,Caixabank,,-3.7064786,40.4921897,-412605,4507591,caixabank,158
+POINT (-3.7055495 40.4920622),Bankinter,,bank,,,,,,,,Bankinter,,,-3.7055495,40.4920622,-412502,4507576,bankinter,158
+POINT (-3.7064046 40.4925773),Banco Sabadell,,bank,,,,,Calle de Nuria,36,28034,Banco Sabadell,Sabadell,,-3.7064046,40.4925773,-412597,4507634,banco sabadell,158
+POINT (-3.7048084 40.4918837),,tobacco,,,,,,,,,,,,-3.7048084,40.4918837,-412419,4507556,,158
+POINT (-3.6957284 40.4262558),Thundercat Club,,pub,,,,,Calle de Campoamor,11,28004,,,,-3.6957284,40.4262558,-411408,4500251,thundercat club,1087
+POINT (-3.7086484 40.4327983),,,post_box,,,,,,,,,,,-3.7086484,40.4327983,-412847,4500979,,968
+POINT (-3.7075081 40.4298542),,,post_box,,,,,,,,,,,-3.7075081,40.4298542,-412720,4500651,,1102
+POINT (-3.7096037 40.4112913),Cafetería Coto,,bar,,,,,,,,,,,-3.7096037,40.4112913,-412953,4498585,cafetería coto,1179
+POINT (-3.7095439 40.4112851),Rivera Ópticos,optician,,,,,,,,,,,,-3.7095439,40.4112851,-412946,4498584,rivera ópticos,1179
+POINT (-3.710202 40.4113529),Tapicería artesana Pepe Miranda,fabric,,,,,,,,,,,,-3.710202,40.4113529,-413020,4498592,tapicería artesana pepe miranda,1179
+POINT (-3.7094155 40.4112719),,clothes,,,,,,,,,,,,-3.7094155,40.4112719,-412932,4498583,,1179
+POINT (-3.6866018 40.4667236),Mapfre,,,,,insurance,,Calle de Mateo Inurria,13,28036,Mapfre,,,-3.6866018,40.4667236,-410393,4504756,mapfre,677
+POINT (-3.686366 40.4667669),El Granate,,pub,,,,,Calle de Mateo Inurria,13,28036,,,,-3.686366,40.4667669,-410366,4504760,el granate,677
+POINT (-3.6866787 40.4667059),Flores Amalia,florist,,,,,,Calle de Mateo Inurria,11,28036,,,,-3.6866787,40.4667059,-410401,4504754,flores amalia,677
+POINT (-3.6966591 40.4261654),Cruz Blanca,,biergarten,,,,,,,,,,,-3.6966591,40.4261654,-411512,4500241,cruz blanca,1087
+POINT (-3.6973935 40.4258182),Parrilla De María,,restaurant,,,,,,,,,,steak_house,-3.6973935,40.4258182,-411594,4500202,parrilla de maría,1087
+POINT (-3.7103351 40.4115575),,kiosk,,,,,,,,,,,,-3.7103351,40.4115575,-413035,4498615,,1179
+POINT (-3.7019167 40.4196251),Tapa Tapa,,bar,,,,,,,,,,,-3.7019167,40.4196251,-412097,4499513,tapa tapa,1157
+POINT (-3.7081702 40.4187933),Lambuzo,,restaurant,,,,,Calle de las Conchas,9,28013,,,regional,-3.7081702,40.4187933,-412794,4499420,lambuzo,1265
+POINT (-3.7085804 40.4161364),Huang,,bar,,,,,Plaza del Comandante Las Morenas,,28013,,,,-3.7085804,40.4161364,-412839,4499124,huang,1225
+POINT (-3.7039464 40.4194576),Mu!,,restaurant,,,,,Calle de Chinchilla,3,28013,,,,-3.7039464,40.4194576,-412323,4499494,mu!,1156
+POINT (-3.7058792 40.4043084),Atrapallada,,restaurant,,,,,Paseo de las Acacias,12,28005,,,gallega,-3.7058792,40.4043084,-412538,4497808,atrapallada,975
+POINT (-3.7063544 40.4041815),Cantespino,,bar,,,,,,,,,,,-3.7063544,40.4041815,-412591,4497793,cantespino,975
+POINT (-3.7064627 40.4044161),Carlin,stationery,,,,,,,,,Carlin,,,-3.7064627,40.4044161,-412603,4497820,carlin,975
+POINT (-3.7066373 40.4037402),Chesscafé,,cafe,,,,,,,,,,burger;sandwich;salad,-3.7066373,40.4037402,-412623,4497744,chesscafé,975
+POINT (-3.7068223 40.4036826),Ibercaja,,bank,,,,,,,,Ibercaja,,,-3.7068223,40.4036826,-412643,4497738,ibercaja,975
+POINT (-3.7070253 40.4036212),Lucky Kids,clothes,,,,,,,,,,,,-3.7070253,40.4036212,-412666,4497731,lucky kids,975
+POINT (-3.7084427 40.4185398),Discos Babel,music,,,,,,Costanilla de los Ángeles,5,28013,,,,-3.7084427,40.4185398,-412824,4499392,discos babel,1265
+POINT (-3.6981977 40.4505102),,,taxi,,,,,,,,,Ayuntamiento de Madrid,,-3.6981977,40.4505102,-411683,4502951,,739
+POINT (-3.7085347 40.4216751),Viajes Arzabe,travel_agency,,,,,,Gran Vía,55,28013,,,,-3.7085347,40.4216751,-412834,4499741,viajes arzabe,1257
+POINT (-3.707943 40.4160552),Diseño Propio,gift,,,,,,Calle Mayor,39,28013,,,,-3.707943,40.4160552,-412768,4499115,diseño propio,1225
+POINT (-3.7091531 40.4125011),Erre Que Erre,,restaurant,,,,,Calle de la Cava Baja,24,28005,,,,-3.7091531,40.4125011,-412903,4498720,erre que erre,1179
+POINT (-3.7104095 40.4118881),Lamiak,,restaurant,,,,,Calle de la Cava Baja,42,28005,,,,-3.7104095,40.4118881,-413043,4498651,lamiak,1179
+POINT (-3.7103622 40.4119082),El Canalla,,restaurant,,,,,Calle de la Cava Baja,42,28005,,,regional,-3.7103622,40.4119082,-413038,4498654,el canalla,1179
+POINT (-3.710051 40.4120408),Esteban,,restaurant,,,,,Calle de la Cava Baja,36,28005,,,regional,-3.710051,40.4120408,-413003,4498668,esteban,1179
+POINT (-3.710273 40.4118313),47 Cocktail Bar,,bar,,,,,Calle de la Cava Baja,47,28005,,,,-3.710273,40.4118313,-413028,4498645,47 cocktail bar,1179
+POINT (-3.7095873 40.4122479),Viejo Madrid,,restaurant,,,,,Calle de la Cava Baja,32,28005,,,,-3.7095873,40.4122479,-412951,4498691,viejo madrid,1179
+POINT (-3.7091763 40.4123646),Casa Curro,,restaurant,,,,,Calle de la Cava Baja,23,28005,,,,-3.7091763,40.4123646,-412906,4498704,casa curro,1179
+POINT (-3.709076 40.4124285),,vacant,,,,,,Calle de la Cava Baja,21,28005,,,,-3.709076,40.4124285,-412894,4498712,,1179
+POINT (-3.6973169 40.450806),O Pazo,,restaurant,,,,,,,,,,,-3.6973169,40.450806,-411585,4502984,o pazo,739
+POINT (-3.6976629 40.4508247),Dia,supermarket,,,,,,,,,Dia,,,-3.6976629,40.4508247,-411624,4502986,dia,739
+POINT (-3.6981486 40.4502228),Ferreiro,,restaurant,,,,,Calle del Aviador Zorita,32,28020,,,,-3.6981486,40.4502228,-411678,4502919,ferreiro,739
+POINT (-3.6981536 40.4500528),Viajes Verdemar,travel_agency,,,,,,,,,,,,-3.6981536,40.4500528,-411678,4502900,viajes verdemar,739
+POINT (-3.6981758 40.4499827),Gaztelupe,,restaurant,,,,,Calle del Aviador Zorita,32,28020,,,,-3.6981758,40.4499827,-411681,4502892,gaztelupe,739
+POINT (-3.7031535 40.4152719),Aplauso,shoes,,,,,,Calle de Carretas,27,28012,,,,-3.7031535,40.4152719,-412235,4499028,aplauso,1247
+POINT (-3.690956 40.4279738),Jorge Juan,jewelry,,,,,,,,,,,,-3.690956,40.4279738,-410877,4500442,jorge juan,712
+POINT (-3.6905514 40.4279586),Bar Tomate,,restaurant,,,,,,,,,,,-3.6905514,40.4279586,-410832,4500440,bar tomate,712
+POINT (-3.7078825 40.4299341),Herbashop,herbalist,,,,,,Calle de Alberto Aguilera,12,28015,,,,-3.7078825,40.4299341,-412761,4500660,herbashop,1102
+POINT (-3.6937885 40.4119611),Centro de Salud Alameda,,clinic,,clinic,,,Calle de la Alameda,5,28014,,Comunidad de Madrid-Servicio Madrileño de Salud,,-3.6937885,40.4119611,-411193,4498660,centro de salud alameda,1072
+POINT (-3.6984558 40.4501504),Mariscos la Toledana,,restaurant,,,,,,,,,,,-3.6984558,40.4501504,-411712,4502911,mariscos la toledana,739
+POINT (-3.7118147 40.4730491),La Tienda de la Personalización,hardware,,,,,,,,,,,,-3.7118147,40.4730491,-413199,4505460,la tienda de la personalización,449
+POINT (-3.6131292 40.3678476),Caixabank,,bank,,,,,,,,Caixabank,,,-3.6131292,40.3678476,-402214,4493749,caixabank,71
+POINT (-3.7094524 40.4123107),Casa Lucas,,restaurant,,,,,Calle de la Cava Baja,30,28005,,,,-3.7094524,40.4123107,-412936,4498698,casa lucas,1179
+POINT (-3.7078695 40.4189787),Los Amigos,,restaurant,,,,,Calle de las Conchas,,28013,,,regional,-3.7078695,40.4189787,-412760,4499441,los amigos,1265
+POINT (-3.7082714 40.4186109),Dia,supermarket,,,,,,Costanilla de los Ángeles,6,28013,Dia,,,-3.7082714,40.4186109,-412805,4499400,dia,1265
+POINT (-3.7084276 40.4159489),Gran Café de Madrid,,cafe,,,,,Calle Mayor,45,28013,,,,-3.7084276,40.4159489,-412822,4499103,gran café de madrid,1225
+POINT (-3.6961829 40.4261613),Cabra Negra,,bar,,,,,Calle de Santa Teresa,3,28004,,,,-3.6961829,40.4261613,-411459,4500240,cabra negra,1087
+POINT (-3.708542 40.4158841),Kukuxumusu,clothes,,,,,,Calle Mayor,47,28013,,,,-3.708542,40.4158841,-412835,4499096,kukuxumusu,1225
+POINT (-3.6939543 40.4122524),Mo,,restaurant,,,,,,,,,,chinese,-3.6939543,40.4122524,-411211,4498692,mo,1072
+POINT (-3.6958336 40.4219145),,kiosk,,,,,,,,,,,,-3.6958336,40.4219145,-411420,4499768,,1183
+POINT (-3.7032256 40.414643),La Fábrica de Las Carcasas,accessories,,,,,,,,,,,,-3.7032256,40.414643,-412243,4498958,la fábrica de las carcasas,1247
+POINT (-3.7030958 40.4146093),Subway,,fast_food,,,,,,,,Subway,,sandwich,-3.7030958,40.4146093,-412229,4498954,subway,1247
+POINT (-3.7031391 40.4146205),Edessa Doner Kebap,,fast_food,,,,,,,,,,pizza,-3.7031391,40.4146205,-412233,4498956,edessa doner kebap,1247
+POINT (-3.7031929 40.4150095),Calzedonia,clothes,,,,,,,,,Calzedonia,,,-3.7031929,40.4150095,-412239,4498999,calzedonia,1247
+POINT (-3.7032052 40.4147873),Mirame,optician,,,,,,Calle de Carretas,33,28012,,,,-3.7032052,40.4147873,-412241,4498974,mirame,1247
+POINT (-3.7032032 40.4148496),Jack & Jones,clothes,,,,,,,,,Jack & Jones,,,-3.7032032,40.4148496,-412241,4498981,jack & jones,1247
+POINT (-3.7031991 40.4149481),Zap Shop,shoes,,,,,,,,,,,,-3.7031991,40.4149481,-412240,4498992,zap shop,1247
+POINT (-3.6959258 40.4219958),Younique,,restaurant,,,,,Calle de Augusto Figueroa,,,,,,-3.6959258,40.4219958,-411430,4499777,younique,1183
+POINT (-3.7089636 40.4125001),Emma y Julia,,restaurant,,,,,Calle de la Cava Baja,19,28005,,,italian,-3.7089636,40.4125001,-412882,4498720,emma y julia,1179
+POINT (-3.7079156 40.4159102),Tea 4 u,,cafe,,,,,Calle del Siete de Julio,3,28012,,,,-3.7079156,40.4159102,-412765,4499099,tea 4 u,1225
+POINT (-3.7119889 40.4733947),Alquiler Seguro,,,,,estate_agent,,,,,,,,-3.7119889,40.4733947,-413219,4505498,alquiler seguro,449
+POINT (-3.709914 40.4724635),Caixabank,,bank,,,,,,,,Caixabank,Caixabank,,-3.709914,40.4724635,-412988,4505395,caixabank,449
+POINT (-3.7105971 40.4724715),Bar El Pinchito 2,,cafe,,,,,,,,,,,-3.7105971,40.4724715,-413064,4505396,bar el pinchito 2,449
+POINT (-3.7089862 40.4725245),Baryona,,cafe,,,,,,,,,,,-3.7089862,40.4725245,-412884,4505401,baryona,449
+POINT (-3.7102236 40.4725502),Cafetería Ibiza,,cafe,,,,,,,,,,,-3.7102236,40.4725502,-413022,4505404,cafetería ibiza,449
+POINT (-3.7090752 40.4725426),Clínica Dental Jebesan,,dentist,,dentist,,,,,,,,,-3.7090752,40.4725426,-412894,4505403,clínica dental jebesan,449
+POINT (-3.7094225 40.4724568),Hidalgo,,pub,,,,,,,,,,,-3.7094225,40.4724568,-412933,4505394,hidalgo,449
+POINT (-3.7121406 40.4734357),Nova Galicia II,,cafe,,,,,,,,,,,-3.7121406,40.4734357,-413235,4505503,nova galicia ii,449
+POINT (-3.7117647 40.4731522),Ilunion,lottery,,,,,,,,,,,,-3.7117647,40.4731522,-413194,4505471,ilunion,449
+POINT (-3.7120779 40.4734215),Chargó,stationery,,,,,,,,,,,,-3.7120779,40.4734215,-413229,4505501,chargó,449
+POINT (-3.7095128 40.472453),Mercafruta,greengrocer,,,,,,,,,,,,-3.7095128,40.472453,-412943,4505393,mercafruta,449
+POINT (-3.7096896 40.4724349),Mesón Los Arcos,,cafe,,,,,,,,,,,-3.7096896,40.4724349,-412963,4505391,mesón los arcos,449
+POINT (-3.7085913 40.4727172),Talleres Álvarez,car_repair,,,,,,,,,,,,-3.7085913,40.4727172,-412840,4505423,talleres álvarez,449
+POINT (-3.7128117 40.4732044),Vermis,nails,,,,,,,,,,,,-3.7128117,40.4732044,-413310,4505477,vermis,449
+POINT (-3.7098839 40.4724654),,,atm,,,,,,,,,Bankia,,-3.7098839,40.4724654,-412984,4505395,,449
+POINT (-3.7112276 40.4728451),,bakery,,,,,,,,,,,,-3.7112276,40.4728451,-413134,4505437,,449
+POINT (-3.6956322 40.4234691),DR&N,clothes,,,,,,,,,,,,-3.6956322,40.4234691,-411398,4499941,dr&n,1183
+POINT (-3.6955565 40.4227845),Cor & Cor,,restaurant,,,,,,,,,,italian,-3.6955565,40.4227845,-411389,4499864,cor & cor,1183
+POINT (-3.6956397 40.4233149),,vacant,,,,,,Calle del Barquillo,33,28004,,,,-3.6956397,40.4233149,-411399,4499923,,1183
+POINT (-3.7089605 40.346432),,,taxi,,,,,Paseo de Alberto Palacios,,,,Ayuntamiento de Madrid,,-3.7089605,40.346432,-412881,4491365,,131
+POINT (-3.7041542 40.4196822),Bon Appetit,,cafe,,,,,Calle de Mesonero Romanos,14,28013,,,,-3.7041542,40.4196822,-412346,4499519,bon appetit,1156
+POINT (-3.6984268 40.4503446),Asociación de Ecuatorianos y Amigos de Extranjeros,,,,,ngo,,Calle del Aviador Zorita,35,28020,,,,-3.6984268,40.4503446,-411709,4502932,asociación de ecuatorianos y amigos de extranjeros,739
+POINT (-3.7535882 40.4061467),,,taxi,,,,,Calle de Villamanín,,,,Ayuntamiento de Madrid,,-3.7535882,40.4061467,-417849,4498012,,457
+POINT (-3.6853271 40.4523137),,,taxi,,,,,Glorieta de los Sagrados Corazones,,,,Ayuntamiento de Madrid,,-3.6853271,40.4523137,-410251,4503152,,607
+POINT (-3.7124396 40.4721588),,,taxi,,,,,Avenida de Betanzos,,,,Ayuntamiento de Madrid,,-3.7124396,40.4721588,-413269,4505361,,449
+POINT (-3.6708383 40.5076091),,,taxi,,,,,Avenida Camino de Santiago,,,,Ayuntamiento de Madrid,,-3.6708383,40.5076091,-408638,4509307,,145
+POINT (-3.6706306 40.5077569),,,taxi,,,,,Avenida Camino de Santiago,,,,Ayuntamiento de Madrid,,-3.6706306,40.5077569,-408615,4509323,,145
+POINT (-3.692337 40.3748166),,,taxi,,,,,Calle de Carabelos,,,,Ayuntamiento de Madrid,,-3.692337,40.3748166,-411031,4494525,,116
+POINT (-3.6925475 40.3755649),,,taxi,,,,,Calle de San Mario,,,,Ayuntamiento de Madrid,,-3.6925475,40.3755649,-411054,4494608,,116
+POINT (-3.6928801 40.3762237),,,taxi,,,,,Calle de San Máximo,,,,Ayuntamiento de Madrid,,-3.6928801,40.3762237,-411091,4494681,,116
+POINT (-3.7034059 40.4147255),,,taxi,,,,,Calle de Carretas,,,,Ayuntamiento de Madrid,,-3.7034059,40.4147255,-412263,4498967,,1247
+POINT (-3.6575228 40.3927918),De tó la vida,,bar,,,,,Calle de Dolores Folgueras,30,28038,,,,-3.6575228,40.3927918,-407155,4496526,de tó la vida,611
+POINT (-3.6504451 40.4240881),Centro Cultural La Elipa,,community_centre,,,,,,,,,,,-3.6504451,40.4240881,-406368,4500009,centro cultural la elipa,305
+POINT (-3.7101966 40.4119788),Café Racer Club,,bar,,,,,Calle de la Cava Baja,38,28005,,,,-3.7101966,40.4119788,-413019,4498661,café racer club,1179
+POINT (-3.7092944 40.4124061),Txakolina,,restaurant,,,,,Calle de la Cava Baja,26,28005,,,,-3.7092944,40.4124061,-412919,4498709,txakolina,1179
+POINT (-3.6344341 40.4436262),Aboca,,restaurant,,,,,,,,,,,-3.6344341,40.4436262,-404585,4502184,aboca,276
+POINT (-3.6339542 40.4450031),Alte,hairdresser,,,,,,,,,,,,-3.6339542,40.4450031,-404532,4502338,alte,276
+POINT (-3.6340428 40.4450933),Kalma,cosmetics,,,,,,,,,,,,-3.6340428,40.4450933,-404542,4502348,kalma,276
+POINT (-3.6344393 40.4446084),Fran Amaro,cosmetics,,,,,,,,,,,,-3.6344393,40.4446084,-404586,4502294,fran amaro,276
+POINT (-3.6340788 40.4451503),Cárdenas,,restaurant,,,,,,,,,,,-3.6340788,40.4451503,-404546,4502354,cárdenas,276
+POINT (-3.6956977 40.4220755),Celicioso,,restaurant,,,,,,,,,,,-3.6956977,40.4220755,-411405,4499785,celicioso,1183
+POINT (-3.7218882 40.4310178),Porta Marina,tailor,,,,,,Calle de Ferraz,98,28008,,,,-3.7218882,40.4310178,-414321,4500781,porta marina,993
+POINT (-3.7217955 40.4309218),Prevenir,,dentist,,dentist,,,Calle de Ferraz,96,28008,,,,-3.7217955,40.4309218,-414310,4500770,prevenir,993
+POINT (-3.7217471 40.4308714),Galería de Alimentación,convenience,,,,,,Calle de Ferraz,96,28008,,,,-3.7217471,40.4308714,-414305,4500765,galería de alimentación,993
+POINT (-3.7216977 40.4308201),Eco Precio,chemist,,,,,,Calle de Ferraz,94,28008,,,,-3.7216977,40.4308201,-414299,4500759,eco precio,993
+POINT (-3.7216252 40.4307447),Simón Office,stationery,,,,,,Calle de Ferraz,94,28008,,,,-3.7216252,40.4307447,-414291,4500751,simón office,993
+POINT (-3.7215985 40.4307171),Natur House,nutrition_supplements,,,,,,Calle de Ferraz,94,28008,Natur House,,,-3.7215985,40.4307171,-414288,4500747,natur house,993
+POINT (-3.721455 40.4305688),La Rosaleda,,bar,,,,,Calle de Ferraz,92,28008,,,,-3.721455,40.4305688,-414272,4500731,la rosaleda,993
+POINT (-3.7216663 40.4304878),Marina Peláez,hairdresser,,,,,,Calle de Ferraz,61,28008,,,,-3.7216663,40.4304878,-414296,4500722,marina peláez,993
+POINT (-3.7215479 40.4303646),Frutas y Verduras,greengrocer,,,,,,Calle de Ferraz,59,28008,,,,-3.7215479,40.4303646,-414283,4500708,frutas y verduras,993
+POINT (-3.7215291 40.4303451),Sat Servicio Técnico,electronics,,,,,,Calle de Ferraz,59,28008,,,,-3.7215291,40.4303451,-414281,4500706,sat servicio técnico,993
+POINT (-3.7214701 40.4302836),Natural Ferraz,health_food,,,,,,Calle de Ferraz,59,28008,,,,-3.7214701,40.4302836,-414274,4500699,natural ferraz,993
+POINT (-3.7213349 40.4304458),Rosales,,clinic,,physiotherapist,,,Calle de Ferraz,90,28008,,,,-3.7213349,40.4304458,-414259,4500717,rosales,993
+POINT (-3.721342 40.4301523),,convenience,,,,,,Calle de Ferraz,57,28008,,,,-3.721342,40.4301523,-414260,4500685,,993
+POINT (-3.7211319 40.4301844),Quiosco Ferraz 86,newsagent,,,,,,Calle de Ferraz,,28008,,,,-3.7211319,40.4301844,-414236,4500688,quiosco ferraz 86,993
+POINT (-3.7210797 40.4301826),Saco's,,bar,,,,,Calle de Ferraz,86,28008,,,,-3.7210797,40.4301826,-414231,4500688,saco's,993
+POINT (-3.7210624 40.4301648),Kiosco Padrino,newsagent,,,,,,Calle de Ferraz,86,28008,,,,-3.7210624,40.4301648,-414229,4500686,kiosco padrino,993
+POINT (-3.721019 40.4301204),Interdomicilio,yes,,,,employment_agency,,Calle de Ferraz,86,28008,,,,-3.721019,40.4301204,-414224,4500681,interdomicilio,993
+POINT (-3.7216995 40.4296486),Kitprinter 3d,electronics,,,,,,Calle de Altamirano,37,28008,,,,-3.7216995,40.4296486,-414300,4500628,kitprinter 3d,993
+POINT (-3.7213699 40.4297845),,,,,,company,,Calle de Altamirano,33,28008,,,,-3.7213699,40.4297845,-414263,4500644,,993
+POINT (-3.721282 40.4298208),,,,,,company,,Calle de Altamirano,33,28008,,,,-3.721282,40.4298208,-414253,4500648,,993
+POINT (-3.7208578 40.4299617),,,,,,yes,,Calle de Ferraz,84,28008,,,,-3.7208578,40.4299617,-414206,4500663,,993
+POINT (-3.7207878 40.4298883),Café Bar Thomas,,bar,,,,,Calle de Ferraz,84,28008,,,,-3.7207878,40.4298883,-414198,4500655,café bar thomas,993
+POINT (-3.7210752 40.4298794),LKSA,,restaurant,,,,,Calle de Ferraz,53,28008,,,,-3.7210752,40.4298794,-414230,4500654,lksa,993
+POINT (-3.7209172 40.429718),ClinEnc,,clinic,,clinic,,,Calle de Ferraz,51,28008,,,,-3.7209172,40.429718,-414213,4500636,clinenc,993
+POINT (-3.7208065 40.4296047),,yes,,,,,,Calle de Ferraz,49,28008,,,,-3.7208065,40.4296047,-414200,4500624,,993
+POINT (-3.7207428 40.4295395),La Oriental,bakery,,,,,,Calle de Ferraz,47,28008,,,,-3.7207428,40.4295395,-414193,4500616,la oriental,993
+POINT (-3.7206958 40.4294912),Paco,hairdresser,,,,,,Calle de Ferraz,47,28008,,,,-3.7206958,40.4294912,-414188,4500611,paco,993
+POINT (-3.7206595 40.4294539),Flores Loto,florist,,,,,,Calle de Ferraz,47,28008,,,,-3.7206595,40.4294539,-414184,4500607,flores loto,993
+POINT (-3.7209972 40.4292594),Fisiorosales,,,,physiotherapist,,,Calle del Marqués de Urquijo,40,28008,,,,-3.7209972,40.4292594,-414221,4500585,fisiorosales,993
+POINT (-3.7207368 40.4293442),Bistro Urquijo,,restaurant,,,,,Calle del Marqués de Urquijo,38,28008,,,,-3.7207368,40.4293442,-414192,4500595,bistro urquijo,993
+POINT (-3.7206079 40.4290918),Motor Sport,motorcycle,,,,,,Calle del Marqués de Urquijo,43,28008,Honda,,,-3.7206079,40.4290918,-414178,4500566,motor sport,993
+POINT (-3.7019919 40.4199293),,,post_box,,,,,,,,,,,-3.7019919,40.4199293,-412106,4499547,,1157
+POINT (-3.7102396 40.4122639),El Zapatero,,bar,,,,,Calle del Almendro,19,28005,,,,-3.7102396,40.4122639,-413024,4498693,el zapatero,1179
+POINT (-3.6965717 40.4109311),Mia Mia,clothes,,,,,,,,,,,,-3.6965717,40.4109311,-411502,4498545,mia mia,1132
+POINT (-3.7091997 40.4781117),Curry House,,restaurant,,,,,Avenida de Monforte de Lemos,119,28029,,,indian,-3.7091997,40.4781117,-412908,4506023,curry house,468
+POINT (-3.7092421 40.4123226),La Perejila,,restaurant,,,,,Calle de la Cava Baja,25,28005,,,,-3.7092421,40.4123226,-412913,4498700,la perejila,1179
+POINT (-3.7096742 40.4120917),Casa Lucio,,restaurant,,,,,Calle de la Cava Baja,35,28005,,,,-3.7096742,40.4120917,-412961,4498674,casa lucio,1179
+POINT (-3.6892025 40.385508),Rogelaine Imagen - Centro de belleza,hairdresser,,,,,,Calle de Embajadores,274,28045,,,,-3.6892025,40.385508,-410682,4495715,rogelaine imagen - centro de belleza,299
+POINT (-3.708395 40.432713),Carlos Jiménez,hairdresser,,,,,,Calle de Arapiles,21,28015,,,,-3.708395,40.432713,-412819,4500970,carlos jiménez,968
+POINT (-3.6990655 40.4151965),,convenience,,,,,,Calle de Manuel Fernández y González,17,28014,,,,-3.6990655,40.4151965,-411780,4499020,,1214
+POINT (-3.7106185 40.4125627),Sie7e,,bar,,,,,Costanilla de San Pedro,7,28005,,,,-3.7106185,40.4125627,-413066,4498726,sie7e,1179
+POINT (-3.7106223 40.412531),Antra,,bar,,,,,Costanilla de San Pedro,,28005,,,,-3.7106223,40.412531,-413066,4498723,antra,1179
+POINT (-3.7106608 40.4124113),La Tasca Latina,,bar,,,,,Costanilla de San Pedro,,28005,,,,-3.7106608,40.4124113,-413071,4498710,la tasca latina,1179
+POINT (-3.7106655 40.4123223),Berlin Cabaret,,music_venue,,,,,Costanilla de San Pedro,11,28005,,,,-3.7106655,40.4123223,-413071,4498700,berlin cabaret,1179
+POINT (-3.7103175 40.4119272),Hopper,,bar,,,,,Calle de la Cava Baja,40,28005,,,,-3.7103175,40.4119272,-413033,4498656,hopper,1179
+POINT (-3.7101129 40.4120145),Taberna Tempranillo,,bar,,,,,Calle de la Cava Baja,38,28005,,,,-3.7101129,40.4120145,-413010,4498665,taberna tempranillo,1179
+POINT (-3.7098487 40.412127),En Ca' Amalia,,restaurant,,,,,Calle de la Cava Baja,34,28005,,,,-3.7098487,40.412127,-412980,4498678,en ca' amalia,1179
+POINT (-3.7097587 40.4121746),Taberna de los Castizos,,restaurant,,,,,Calle de la Cava Baja,34,28005,,,,-3.7097587,40.4121746,-412970,4498683,taberna de los castizos,1179
+POINT (-3.7092245 40.4124542),Casa Victor,,restaurant,,,,,Calle de la Cava Baja,26,28005,,"TopGunYTapas S,L",spanish,-3.7092245,40.4124542,-412911,4498714,casa victor,1179
+POINT (-3.7090421 40.412577),La Chata,,restaurant,,,,,Calle de la Cava Baja,24,28005,,,regional,-3.7090421,40.412577,-412891,4498728,la chata,1179
+POINT (-3.7103203 40.4122223),J&J,,bar,,,,,Calle del Almendro,19,28005,,,,-3.7103203,40.4122223,-413033,4498689,j&j,1179
+POINT (-3.7103886 40.4121743),Gor2.0,,bar,,,,,Calle del Almendro,21,28005,,,,-3.7103886,40.4121743,-413040,4498683,gor2.0,1179
+POINT (-3.7106862 40.4119982),Que trabaje Rita,,bar,,,,,Calle del Almendro,27,28005,,,,-3.7106862,40.4119982,-413074,4498664,que trabaje rita,1179
+POINT (-3.6946825 40.4238352),Ambigú,,bar,,,,,Plaza de las Salesas,8,28004,,,,-3.6946825,40.4238352,-411292,4499981,ambigú,1091
+POINT (-3.6945757 40.4238116),Pippa's,gift,,,,,,Plaza de las Salesas,8,28004,,,,-3.6945757,40.4238116,-411280,4499979,pippa's,1091
+POINT (-3.7094416 40.4120082),Kiki Market,food,,,,,,Calle de la Cava Alta,21,28005,,,,-3.7094416,40.4120082,-412935,4498665,kiki market,1179
+POINT (-3.7076144 40.4296219),Tea Shop,tea,,,,,,Calle de Alberto Aguilera,3,28015,Tea Shop,,,-3.7076144,40.4296219,-412732,4500626,tea shop,1102
+POINT (-3.6989964 40.415142),,vacant,,,,,,Calle de Manuel Fernández y González,10,28014,,,,-3.6989964,40.415142,-411772,4499014,,1214
+POINT (-3.6991318 40.4151461),,vacant,,,,,,Calle de Manuel Fernández y González,10,28014,,,,-3.6991318,40.4151461,-411787,4499014,,1214
+POINT (-3.6955933 40.421646),extensión,hairdresser,,,,,,Calle del Barquillo,18,28004,,,,-3.6955933,40.421646,-411393,4499738,extensión,1183
+POINT (-3.7535532 40.4046499),Espacio B,,community_centre,,,,,Paseo de Extremadura,256,,,,,-3.7535532,40.4046499,-417846,4497846,espacio b,457
+POINT (-3.6971705 40.4258191),Makkila,,restaurant,,,,,Calle de Fernando VI,2,28004,,,,-3.6971705,40.4258191,-411569,4500202,makkila,1087
+POINT (-3.6967788 40.4260767),Villa Capri,,restaurant,,,,,Calle de Hortaleza,118,28004,,,,-3.6967788,40.4260767,-411525,4500231,villa capri,1087
+POINT (-3.6946152 40.4257967),La Flor del Pan,bakery,,,,,,Calle de Argensola,17,28004,,,,-3.6946152,40.4257967,-411285,4500200,la flor del pan,1099
+POINT (-3.7103492 40.3463871),La Jaula,supermarket,,,,,,Paseo de Alberto Palacios,,,,,,-3.7103492,40.3463871,-413036,4491360,la jaula,131
+POINT (-3.6969584 40.4257114),Pastelería La Duquesita,,cafe,,,,,Calle de Fernando VI,2,28004,,,,-3.6969584,40.4257114,-411545,4500190,pastelería la duquesita,1087
+POINT (-3.6964271 40.4226186),Lola & Co,,restaurant,,,,,Calle de Gravina,18,28004,,,,-3.6964271,40.4226186,-411486,4499846,lola & co,1183
+POINT (-3.696217 40.4226687),El Inca,,restaurant,,,,,Calle de Gravina,23,28004,,,peruvian,-3.696217,40.4226687,-411463,4499851,el inca,1183
+POINT (-3.7083095 40.4778139),Moda Tres,interior_decoration,,,,,,,,,,,,-3.7083095,40.4778139,-412809,4505990,moda tres,468
+POINT (-3.7126447 40.4732133),Pan y Miga,bakery,,,,,,,,,,,,-3.7126447,40.4732133,-413292,4505478,pan y miga,449
+POINT (-3.712458 40.4730675),Madrid es la Corte,,pub,,,,,,,,,,,-3.712458,40.4730675,-413271,4505462,madrid es la corte,449
+POINT (-3.76271 40.3908698),AlucheGraffiti,art,,,,,,,,,,,,-3.76271,40.3908698,-418865,4496312,aluchegraffiti,266
+POINT (-3.6883418 40.4204147),,tobacco,,,,,,,,,,,,-3.6883418,40.4204147,-410586,4499601,,913
+POINT (-3.6881487 40.4205566),BBVA,,bank,,,,,Plaza de la Independencia,5,28001,BBVA,,,-3.6881487,40.4205566,-410565,4499616,bbva,913
+POINT (-3.6880723 40.4210936),La Vanduca,,restaurant,,,,,Calle de Serrano,2,28001,,,,-3.6880723,40.4210936,-410556,4499676,la vanduca,913
+POINT (-3.6888032 40.4208179),Sushi Shop,,fast_food,,,,,Calle de Serrano,1,28001,Sushi Shop,,sushi,-3.6888032,40.4208179,-410638,4499645,sushi shop,913
+POINT (-3.6887831 40.4210038),Superdry,clothes,,,,,,Calle de Serrano,3,28001,Superdry,,,-3.6887831,40.4210038,-410635,4499666,superdry,913
+POINT (-3.6883391 40.4210722),Hästens,interior_decoration,,,,,,Calle de Serrano,4,28001,,,,-3.6883391,40.4210722,-410586,4499674,hästens,913
+POINT (-3.6883794 40.4208629),Prima Travel,bag,,,,,,Calle de Serrano,2,28001,,,,-3.6883794,40.4208629,-410590,4499650,prima travel,913
+POINT (-3.6884008 40.4207016),Guzmán,clothes,,,,,,Calle de Serrano,2,28001,,,,-3.6884008,40.4207016,-410593,4499633,guzmán,913
+POINT (-3.6963578 40.4269665),Santa Bárbara,,library,,,,,,,,,,,-3.6963578,40.4269665,-411479,4500330,santa bárbara,1087
+POINT (-3.7085987 40.4162532),Sushi Bar,,restaurant,,,,,Plaza del Comandante Las Morenas,5,28013,,,japanese,-3.7085987,40.4162532,-412841,4499137,sushi bar,1225
+POINT (-3.6988622 40.4151754),El Rincón de Pangpang,,restaurant,,,,,Calle de Ventura de la Vega,19,28014,,,chinese,-3.6988622,40.4151754,-411757,4499017,el rincón de pangpang,1214
+POINT (-3.7099996 40.4119524),Alma de Julián Becerro,butcher,,,,,,Calle de la Cava Baja,41,28005,,,,-3.7099996,40.4119524,-412997,4498659,alma de julián becerro,1179
+POINT (-3.6954978 40.4219685),Panod,bakery,cafe,,,,,Calle de Prim,1,,,,,-3.6954978,40.4219685,-411383,4499774,panod,1183
+POINT (-3.6969058 40.4260595),ECOALF,clothes,,,,,,,,,,,,-3.6969058,40.4260595,-411540,4500229,ecoalf,1087
+POINT (-3.7084866 40.4158113),Mistura Ice Cream & Coffee,,cafe,,,,,Calle Ciudad Rodrigo,6,28012,,,ice_cream;tea;coffee_shop,-3.7084866,40.4158113,-412829,4499088,mistura ice cream & coffee,1225
+POINT (-3.7247236 40.4433088),"Facultad de Enfermería, Fisioterapia y Podología",,,,,university,,,,,,,,-3.7247236,40.4433088,-414636,4502149,"facultad de enfermería, fisioterapia y podología",87
+POINT (-3.7282589 40.4425373),Comedor,,restaurant,,,,,,,,,,,-3.7282589,40.4425373,-415030,4502063,comedor,87
+POINT (-3.7301349 40.4424878),Cafetería,,cafe,,,,,,,,,,,-3.7301349,40.4424878,-415239,4502058,cafetería,87
+POINT (-3.730118 40.4428705),Reprografía,copyshop,,,,,,,,,,,,-3.730118,40.4428705,-415237,4502100,reprografía,87
+POINT (-3.7298776 40.4426113),Secretaría,,,,,government,,,,,,,,-3.7298776,40.4426113,-415210,4502071,secretaría,87
+POINT (-3.7292863 40.4431422),,,library,,,,,,,,,,,-3.7292863,40.4431422,-415144,4502131,,87
+POINT (-3.7080438 40.4932719),Sánchez Romero,supermarket,,,,,,,,,,,,-3.7080438,40.4932719,-412779,4507711,sánchez romero,158
+POINT (-3.7025353 40.4267297),Nueva Visión,,pub,,,,,Calle de Velarde,5,28004,,,,-3.7025353,40.4267297,-412166,4500304,nueva visión,1338
+POINT (-3.6967178 40.4262711),Autoservicio,convenience,,,,,,Calle de Hortaleza,,,,,,-3.6967178,40.4262711,-411519,4500252,autoservicio,1087
+POINT (-3.6911125 40.427537),Saddle,,restaurant,,,,,,,,,,,-3.6911125,40.427537,-410895,4500393,saddle,712
+POINT (-3.6963628 40.4264346),The Place To Be,,restaurant,,,,,Plaza de Santa Bárbara,10,28004,,,,-3.6963628,40.4264346,-411479,4500271,the place to be,1087
+POINT (-3.706951 40.345243),El prestamista,money_lender,,,,,,,,,,,,-3.706951,40.345243,-412658,4491232,el prestamista,131
+POINT (-3.6955967 40.421766),La Pizzería,,restaurant,,,,,Calle del Barquillo,20,,,,,-3.6955967,40.421766,-411394,4499751,la pizzería,1183
+POINT (-3.6990329 40.4153702),El Luarqués,,restaurant,,,,,Calle de Ventura de la Vega,16,28014,,,,-3.6990329,40.4153702,-411776,4499039,el luarqués,1214
+POINT (-3.7063287 40.3489174),Azahara,greengrocer,,,,,,,,,,,,-3.7063287,40.3489174,-412589,4491641,azahara,131
+POINT (-3.7064803 40.3489052),,variety_store,,,,,,,,,,,,-3.7064803,40.3489052,-412605,4491640,,131
+POINT (-3.7065983 40.3489001),,greengrocer,,,,,,,,,,,,-3.7065983,40.3489001,-412619,4491640,,131
+POINT (-3.7068062 40.3488857),Hiper Villaverde,supermarket,,,,,,,,,,,,-3.7068062,40.3488857,-412642,4491638,hiper villaverde,131
+POINT (-3.7084195 40.3468635),,convenience,,,,,,,,,,,,-3.7084195,40.3468635,-412821,4491413,,131
+POINT (-3.7081399 40.4161654),Little Caesars,,fast_food,,,,,Calle Mayor,36,28013,Little Caesars,,pizza,-3.7081399,40.4161654,-412790,4499128,little caesars,1225
+POINT (-3.7041828 40.4190947),Outlet El Corte Inglés,clothes,,,,,,,,,,,,-3.7041828,40.4190947,-412350,4499454,outlet el corte inglés,1156
+POINT (-3.7026336 40.4268161),Espacio Cientoypico,,events_venue,,,,,Calle de Velarde,14,28004,,,,-3.7026336,40.4268161,-412177,4500313,espacio cientoypico,1338
+POINT (-3.7022832 40.4267802),,,restaurant,,,,,Calle de Velarde,8,28004,,,kebab,-3.7022832,40.4267802,-412138,4500309,,1338
+POINT (-3.702239 40.4267759),Ekeko,clothes,,,,,,Calle de Velarde,6,28004,,,,-3.702239,40.4267759,-412133,4500309,ekeko,1338
+POINT (-3.7022038 40.4267746),Fresa Acida,clothes,,,,,,Calle de Velarde,6,28004,,,,-3.7022038,40.4267746,-412129,4500309,fresa acida,1338
+POINT (-3.7020092 40.4267587),El Rincón de Tía Jo,clothes,,,,,,Calle de Velarde,4,28004,,,,-3.7020092,40.4267587,-412108,4500307,el rincón de tía jo,1338
+POINT (-3.7323665 40.3966042),,convenience,,,,,,,,,,,,-3.7323665,40.3966042,-415487,4496950,,504
+POINT (-3.731315 40.3967895),,convenience,,,,,,,,,,,,-3.731315,40.3967895,-415370,4496971,,504
+POINT (-3.7319778 40.3971668),Buchelli,car_repair,,,,,,,,,,,,-3.7319778,40.3971668,-415444,4497013,buchelli,504
+POINT (-3.7317408 40.3971813),,pet,,,,,,,,,,,,-3.7317408,40.3971813,-415417,4497014,,504
+POINT (-3.7522247 40.3731903),Iberdrola,,,,,company,,Calle de Joaquín Turina,,,,,,-3.7522247,40.3731903,-417698,4494344,iberdrola,518
+POINT (-3.6970706 40.4259377),Number 16,,language_school,,,,,Calle de Fernando VI,,28004,,,,-3.6970706,40.4259377,-411558,4500215,number 16,1087
+POINT (-3.6957091 40.4267108),Cacao Sampaka,chocolate,,,,,,Calle de Orellana,4,28004,,,,-3.6957091,40.4267108,-411406,4500301,cacao sampaka,1087
+POINT (-3.6945217 40.4259183),Barbara Torrijos,clothes,,,,,,Calle de Argensola,21,28004,,,,-3.6945217,40.4259183,-411274,4500213,barbara torrijos,1099
+POINT (-3.6946534 40.4257415),El Súper de los Pastores,supermarket,,,,,,Calle de Argensola,17,28004,,El Súper de los Pastores,,-3.6946534,40.4257415,-411289,4500194,el súper de los pastores,1099
+POINT (-3.6947455 40.4256173),La Vulpeja,hairdresser,,,,,,Calle de Argensola,13,28004,,,,-3.6947455,40.4256173,-411299,4500180,la vulpeja,1099
+POINT (-3.6947775 40.4255703),Librería Gaudi,books,,,,,,Calle de Argensola,13,28004,,,,-3.6947775,40.4255703,-411303,4500174,librería gaudi,1099
+POINT (-3.6945962 40.425593),Eliel,clothes,,,,,,Calle de Argensola,20,28004,,,,-3.6945962,40.425593,-411282,4500177,eliel,1099
+POINT (-3.69461 40.4255731),Simay,clothes,,,,,,Calle de Argensola,20,28004,,,,-3.69461,40.4255731,-411284,4500175,simay,1099
+POINT (-3.6946244 40.4255544),Napa,bag,,,,,,Calle de Argensola,20,28004,,,,-3.6946244,40.4255544,-411286,4500173,napa,1099
+POINT (-3.7086944 40.3464399),ONCE,lottery,,,,,,,,,,,,-3.7086944,40.3464399,-412852,4491366,once,131
+POINT (-3.706438 40.3469729),,,post_box,,,,,,,,,,,-3.706438,40.3469729,-412601,4491425,,131
+POINT (-3.7069609 40.3468715),Banco Santander,,bank,,,,,,,,Banco Santander,,,-3.7069609,40.3468715,-412659,4491414,banco santander,131
+POINT (-3.706528 40.3469308),Caixabank,,bank,,,,,,,,Caixabank,,,-3.706528,40.3469308,-412611,4491420,caixabank,131
+POINT (-3.7062907 40.346859),,lottery,,,,,,,,,,,,-3.7062907,40.346859,-412584,4491412,,131
+POINT (-3.707029 40.3457862),Los primos,greengrocer,,,,,,,,,,,,-3.707029,40.3457862,-412666,4491293,los primos,131
+POINT (-3.7069426 40.3457921),Dia,supermarket,,,,,,,,,Dia,,,-3.7069426,40.3457921,-412657,4491294,dia,131
+POINT (-3.7031684 40.4151832),Oysho,clothes,,,,,,Calle de Carretas,27,28012,Oysho,,,-3.7031684,40.4151832,-412237,4499018,oysho,1247
+POINT (-3.7031751 40.4151423),,,restaurant,,,,,Calle de Carretas,29,28012,,,,-3.7031751,40.4151423,-412237,4499014,,1247
+POINT (-3.7031895 40.415097),Nicolas Moya,books,,,,,,Calle de Carretas,29,28012,,,,-3.7031895,40.415097,-412239,4499009,nicolas moya,1247
+POINT (-3.70319 40.4150457),Oasis,clothes,,,,,,Calle de Carretas,31,28012,Oasis,,,-3.70319,40.4150457,-412239,4499003,oasis,1247
+POINT (-3.7032311 40.4147118),Souvenirs Madrid,gift,,,,,,Calle de Carretas,33,28012,,,,-3.7032311,40.4147118,-412244,4498966,souvenirs madrid,1247
+POINT (-3.694467 40.4239619),,,post_box,,,,,,,,Correos,Correos,,-3.694467,40.4239619,-411268,4499995,,1091
+POINT (-3.7067466 40.3447153),Nuestra Señora del Carmen,,school,,,,,,,,,,,-3.7067466,40.3447153,-412635,4491174,nuestra señora del carmen,131
+POINT (-3.7063802 40.3454817),La Picota,,pub,,,,,,,,,,,-3.7063802,40.3454817,-412594,4491259,la picota,131
+POINT (-3.7060799 40.3460958),Panflor,bakery,,,,,,,,,,,,-3.7060799,40.3460958,-412561,4491327,panflor,131
+POINT (-3.7062936 40.3460902),English Connection,,,,,educational_institution,,,,,,,,-3.7062936,40.3460902,-412585,4491327,english connection,131
+POINT (-3.7066431 40.3452901),Triunfo,hairdresser,,,,,,,,,,,,-3.7066431,40.3452901,-412624,4491238,triunfo,131
+POINT (-3.7065302 40.3455336),Peluquería España,hairdresser,,,,,,,,,,,,-3.7065302,40.3455336,-412611,4491265,peluquería españa,131
+POINT (-3.7052918 40.34864),Chino Dani,convenience,,,,,,,,,,,,-3.7052918,40.34864,-412473,4491611,chino dani,131
+POINT (-3.7074699 40.3468957),Chino Plaza,convenience,,,,,,,,,,,,-3.7074699,40.3468957,-412716,4491416,chino plaza,131
+POINT (-3.7073253 40.3474079),Bar Asturias,,pub,,,,,,,,,,,-3.7073253,40.3474079,-412699,4491473,bar asturias,131
+POINT (-3.7267412 40.4436534),,,atm,,,,,,,,,Santander,,-3.7267412,40.4436534,-414861,4502187,,87
+POINT (-3.7267463 40.4436991),,,atm,,,,,,,,,Bankia,,-3.7267463,40.4436991,-414861,4502193,,87
+POINT (-3.6989125 40.4503194),Sarajevo,,bar,,,,,,,,,,,-3.6989125,40.4503194,-411763,4502930,sarajevo,739
+POINT (-3.6984257 40.4508695),Pasteleria Mallorca,,cafe,,,,,,,,,,,-3.6984257,40.4508695,-411709,4502991,pasteleria mallorca,739
+POINT (-3.6984097 40.4508405),Mallorca,bakery,,,,,,,,,,,,-3.6984097,40.4508405,-411707,4502988,mallorca,739
+POINT (-3.692395 40.3750338),La Gastroteca de Peláez,,restaurant,,,,,,,,,,,-3.692395,40.3750338,-411037,4494549,la gastroteca de peláez,116
+POINT (-3.7113803 40.4728503),El Arripies,books,,,,,,,,,,,,-3.7113803,40.4728503,-413151,4505438,el arripies,449
+POINT (-3.7096108 40.4122364),Viejo madrid,,restaurant,,,,,Calle de la Cava Baja,32,28005,,,,-3.7096108,40.4122364,-412954,4498690,viejo madrid,1179
+POINT (-3.7084552 40.4216241),Zapshop,shoes,,,,,,Gran Vía,55,28013,,,,-3.7084552,40.4216241,-412825,4499735,zapshop,1257
+POINT (-3.6923799 40.3745271),,,post_box,,,,,,,,,,,-3.6923799,40.3745271,-411036,4494492,,116
+POINT (-3.6920055 40.3747121),Pérez,hairdresser,,,,,,,,,,,,-3.6920055,40.3747121,-410994,4494513,pérez,116
+POINT (-3.6923568 40.3749065),La Selva,,bar,,,,,,,,,,,-3.6923568,40.3749065,-411033,4494535,la selva,116
+POINT (-3.6874803 40.3857051),Carrefour Express,convenience,,,,,,Calle Puerto Serrano,14,28045,Carrefour Express,,,-3.6874803,40.3857051,-410490,4495737,carrefour express,299
+POINT (-3.695712 40.4224273),Lumas,photo,,,,,,Calle del Barquillo,23,28004,,,,-3.695712,40.4224273,-411407,4499825,lumas,1183
+POINT (-3.6961829 40.4225439),Artes gráficas Gravins,copyshop,,,,,,,,,,,,-3.6961829,40.4225439,-411459,4499838,artes gráficas gravins,1183
+POINT (-3.7086334 40.4325782),Clínica del Dolor de Madrid,,hospital,,hospital,,,Calle de Vallehermoso,26,28015,,,,-3.7086334,40.4325782,-412845,4500955,clínica del dolor de madrid,968
+POINT (-3.6865066 40.4672565),Donde Natalia,,pub,,,,,Calle de Enrique Larreta,3,28036,,,,-3.6865066,40.4672565,-410382,4504815,donde natalia,677
+POINT (-3.6957518 40.426901),Quispe,,restaurant,,,,,Calle de Orellana,1,,,,,-3.6957518,40.426901,-411411,4500323,quispe,1087
+POINT (-3.7089596 40.4781671),Telas El Pozo,sewing,,,,,,,,,,,,-3.7089596,40.4781671,-412881,4506030,telas el pozo,468
+POINT (-3.7090191 40.4781555),Loterías 205,lottery,,,,,,,,,,,,-3.7090191,40.4781555,-412888,4506028,loterías 205,468
+POINT (-3.6962651 40.4262223),La sanducherie,,fast_food,,,,,"Calle Santa Teresa, 1, Madrid",,28004,,,,-3.6962651,40.4262223,-411468,4500247,la sanducherie,1087
+POINT (-3.6957266 40.4268783),Mejillón,,restaurant,,,,,,,28000,,,,-3.6957266,40.4268783,-411408,4500320,mejillón,1087
+POINT (-3.6964756 40.4261932),Cripeka,,cafe,,,,,"Calle Santa Teresa, 2, Madrid",,28004,,,,-3.6964756,40.4261932,-411492,4500244,cripeka,1087
+POINT (-3.7082344 40.4299786),La marina,pastry,,,,,,"Calle de Alberto Aguilera, 14, Madrid",,28015,,,,-3.7082344,40.4299786,-412801,4500665,la marina,1102
+POINT (-3.7278148 40.442469),Reprografía,copyshop,,,,,,,,,,,,-3.7278148,40.442469,-414980,4502056,reprografía,87
+POINT (-3.7116712 40.4730539),Rico Grill,,restaurant,,,,,,,,,,,-3.7116712,40.4730539,-413183,4505460,rico grill,449
+POINT (-3.7100477 40.4119289),Dejuan,,pub,,,,,,,,,,,-3.7100477,40.4119289,-413003,4498656,dejuan,1179
+POINT (-3.697089 40.4259431),Mural,,,viewpoint,,,,,,,,,,-3.697089,40.4259431,-411560,4500216,mural,1087
+POINT (-3.6935775 40.4126243),,,post_box,,,,,,,,Correos,Correos,,-3.6935775,40.4126243,-411169,4498733,,1072
+POINT (-3.6937076 40.4125322),Embajada de Siria,,,,,diplomatic,,Plaza de la Platería de Martínez,1,28014,,,,-3.6937076,40.4125322,-411184,4498723,embajada de siria,1072
+POINT (-3.6867427 40.4666918),Anthropos,,,,psychotherapist,,,Calle de Mateo Inurria,11,28036,,,,-3.6867427,40.4666918,-410408,4504752,anthropos,677
+POINT (-3.683333 40.4172646),,,,viewpoint,,,,,,,,,,-3.683333,40.4172646,-410029,4499250,,211
+POINT (-3.7080759 40.4160278),Turrones Vicens,chocolate,,,,,,Calle Mayor,41,,,,,-3.7080759,40.4160278,-412783,4499112,turrones vicens,1225
+POINT (-3.7206152 40.4294415),,,post_box,,,,,,,,,,,-3.7206152,40.4294415,-414179,4500605,,993
+POINT (-3.6911914 40.4287821),Hotel One Shot Fortuny 07,,,hotel,,,,Calle de Fortuny,7,,,,,-3.6911914,40.4287821,-410903,4500532,hotel one shot fortuny 07,712
+POINT (-3.732426 40.4120452),Tintorerías Leganés,dry_cleaning,,,,,,Paseo de Extremadura,71,28011,,,,-3.732426,40.4120452,-415494,4498669,tintorerías leganés,452
+POINT (-3.7307045 40.4400653),Cafetería de la ETSAM,,cafe,,,,,Calle de Paul Guinard,,28040,,,,-3.7307045,40.4400653,-415302,4501788,cafetería de la etsam,87
+POINT (-3.711001 40.4116415),Mercería,fabric,,,,,,,,,,,,-3.711001,40.4116415,-413109,4498624,mercería,1179
+POINT (-3.7105959 40.4126774),El Perro de Pavlov,,cafe,,,,,,,,,,,-3.7105959,40.4126774,-413064,4498739,el perro de pavlov,1179
+POINT (-3.6957072 40.4224786),Dan John,clothes,,,,,,,,,Dan John,,,-3.6957072,40.4224786,-411406,4499830,dan john,1183
+POINT (-3.6867205 40.4666972),Alimentación,convenience,,,,,,Calle de Mateo Inurria,11,,,,,-3.6867205,40.4666972,-410406,4504753,alimentación,677
+POINT (-3.6867851 40.4666838),Fisiofix,,clinic,,physiotherapist;podiatrist,,,Calle de Mateo Inurria,11,,,,,-3.6867851,40.4666838,-410413,4504751,fisiofix,677
+POINT (-3.6868925 40.4666481),Lastresmarías,clothes,,,,,,Calle de Mateo Inurria,9,28036,,,,-3.6868925,40.4666481,-410425,4504747,lastresmarías,677
+POINT (-3.6994571 40.4598495),Poly,toys,,,,,,,,,,,,-3.6994571,40.4598495,-411824,4503990,poly,920
+POINT (-3.7126624 40.472781),Ga-Ma,,cafe,,,,,,,,,,,-3.7126624,40.472781,-413294,4505430,ga-ma,449
+POINT (-3.7126019 40.4727549),Tontorerías Madrid,dry_cleaning,,,,,,,,,,,,-3.7126019,40.4727549,-413287,4505427,tontorerías madrid,449
+POINT (-3.712541 40.4727552),Tres x Tres,,pub,,,,,,,,,,,-3.712541,40.4727552,-413280,4505427,tres x tres,449
+POINT (-3.7286263 40.4437748),Oficina de Correos,,post_office,,,,,Calle Arquitecto López Otero,3,28040,Correos,Correos,,-3.7286263,40.4437748,-415071,4502201,oficina de correos,87
+POINT (-3.6989014 40.4153709),Arrocería Marina Ventura,,restaurant,,,,,,,,,,,-3.6989014,40.4153709,-411762,4499039,arrocería marina ventura,1214
+POINT (-3.7109162 40.4726777),,convenience,,,,,,,,,,,,-3.7109162,40.4726777,-413099,4505418,,449
+POINT (-3.7106586 40.4727859),Ibiza,,cafe,,,,,,,,,,,-3.7106586,40.4727859,-413071,4505431,ibiza,449
+POINT (-3.7110315 40.4726706),Triana,,cafe,,,,,,,,,,,-3.7110315,40.4726706,-413112,4505418,triana,449
+POINT (-3.7524761 40.3733292),Galway Meeting Point,,language_school,,,,,Calle de Joaquín Turina,12,28044,,,,-3.7524761,40.3733292,-417726,4494359,galway meeting point,518
+POINT (-3.7078365 40.492931),La Barra de Pintxos,,restaurant,,,,,,,,,,,-3.7078365,40.492931,-412756,4507673,la barra de pintxos,158
+POINT (-3.7078642 40.4929738),Gilmar,,,,,estate_agent,,,,,,,,-3.7078642,40.4929738,-412759,4507678,gilmar,158
+POINT (-3.7061646 40.4923868),De Salas,,,,,estate_agent,,,,,,,,-3.7061646,40.4923868,-412570,4507612,de salas,158
+POINT (-3.7102941 40.411749),Bellagio,,fast_food,,,,,,,,,,pizza,-3.7102941,40.411749,-413030,4498636,bellagio,1179
+POINT (-3.7107998 40.4116626),El Camarote,,restaurant,,,,,Plaza de la Puerta de Moros,8,28005,,,,-3.7107998,40.4116626,-413086,4498626,el camarote,1179
+POINT (-3.710828 40.4118108),Cañas y Tapas,,pub,,,,,,,,,,spanish,-3.710828,40.4118108,-413089,4498643,cañas y tapas,1179
+POINT (-3.731913 40.4391166),Aula Museo de Construcción,,,museum,,,,,,,,,,-3.731913,40.4391166,-415437,4501682,aula museo de construcción,87
+POINT (-3.6902199 40.428134),Embajada de Finlandia,,,,,diplomatic,,Paseo de la Castellana,15,28046,,,,-3.6902199,40.428134,-410795,4500460,embajada de finlandia,712
+POINT (-3.6902904 40.428128),Embajada de Haití,,,,,diplomatic,,Paseo de la Castellana,15,28046,,,,-3.6902904,40.428128,-410803,4500459,embajada de haití,712
+POINT (-3.690205 40.4281793),Embajada de Catar,,,,,diplomatic,,Paseo de la Castellana,15,28046,,,,-3.690205,40.4281793,-410794,4500465,embajada de catar,712
+POINT (-3.695577 40.422448),Tuk Tuk,,restaurant,,,,,Calle del Barquillo,26,28004,,,asian,-3.695577,40.422448,-411392,4499827,tuk tuk,1183
+POINT (-3.7524707 40.4069442),Clarel,chemist,,,,,,,,,Clarel,,,-3.7524707,40.4069442,-417725,4498101,clarel,457
+POINT (-3.7532201 40.4064781),Mapfre,,,,,insurance,,,,,Mapfre,,,-3.7532201,40.4064781,-417808,4498049,mapfre,457
+POINT (-3.7538117 40.4061063),House Madrid,,,,,estate_agent,,,,,,,,-3.7538117,40.4061063,-417874,4498008,house madrid,457
+POINT (-3.7538019 40.4048757),Peluquería Yolanda,hairdresser,,,,,,,,,,,,-3.7538019,40.4048757,-417873,4497871,peluquería yolanda,457
+POINT (-3.753763 40.4055065),Granja del Molino,farm,,,,,,,,,,,,-3.753763,40.4055065,-417869,4497941,granja del molino,457
+POINT (-3.6841865 40.4520051),Fundación Nacional Francisco Franco,,,,,political_party,,,,,,,,-3.6841865,40.4520051,-410124,4503117,fundación nacional francisco franco,607
+POINT (-3.6136014 40.3702664),Clínica dental La Gavia,,dentist,,dentist,,,,,,,,,-3.6136014,40.3702664,-402266,4494018,clínica dental la gavia,71
+POINT (-3.69561 40.4233802),Electrónica Lila,hifi,,,,,,Calle del Barquillo,35,28004,,,,-3.69561,40.4233802,-411395,4499931,electrónica lila,1183
+POINT (-3.6955267 40.4231977),Simply City,convenience,,,,,,Calle del Barquillo,36,28004,Simply City,,,-3.6955267,40.4231977,-411386,4499910,simply city,1183
+POINT (-3.6955195 40.4230454),La Cachapera,,restaurant,,,,,Calle del Barquillo,34,28004,,,cachapa;venezuelan,-3.6955195,40.4230454,-411385,4499893,la cachapera,1183
+POINT (-3.6955427 40.4229162),Musical Barquillo,hifi,,,,,,,,,,,,-3.6955427,40.4229162,-411388,4499879,musical barquillo,1183
+POINT (-3.695547 40.4228469),GANT,clothes,,,,,,,,,GANT,,,-3.695547,40.4228469,-411388,4499871,gant,1183
+POINT (-3.6955614 40.4227045),Santa Rita,clothes,,,,,,,,,,,,-3.6955614,40.4227045,-411390,4499855,santa rita,1183
+POINT (-3.6955356 40.4225864),Doble AA,clothes,,,,,,,,,,,,-3.6955356,40.4225864,-411387,4499842,doble aa,1183
+POINT (-3.695664 40.422595),Baileys,clothes,,,,,,,,,,,,-3.695664,40.422595,-411401,4499843,baileys,1183
+POINT (-3.6956564 40.4226967),HIFI 25,hifi,,,,,,,,,,,,-3.6956564,40.4226967,-411400,4499855,hifi 25,1183
+POINT (-3.6956462 40.4228319),Hiper Bazar,variety_store,,,,,,,,,,,,-3.6956462,40.4228319,-411399,4499870,hiper bazar,1183
+POINT (-3.6956415 40.4228982),Herbolario Salud Mediterránea,herbalist,,,,,,Calle del Barquillo,29,28004,,,,-3.6956415,40.4228982,-411399,4499877,herbolario salud mediterránea,1183
+POINT (-3.7511411 40.3754638),Dinomascota,pet,,,,,,,,,,,,-3.7511411,40.3754638,-417577,4494597,dinomascota,518
+POINT (-3.7510664 40.3753559),Regalos Martín,gift,,,,,,,,,,,,-3.7510664,40.3753559,-417569,4494585,regalos martín,518
+POINT (-3.7510744 40.3751436),Bar-Restaurante Charly,,bar,,,,,,,,,,,-3.7510744,40.3751436,-417570,4494561,bar-restaurante charly,518
+POINT (-3.7510744 40.3750927),Fajas Ruiz,clothes,,,,,,,,,,,,-3.7510744,40.3750927,-417570,4494555,fajas ruiz,518
+POINT (-3.751071 40.3748626),El As del Pollo,,fast_food,,,,,,,,,,chicken,-3.751071,40.3748626,-417569,4494530,el as del pollo,518
+POINT (-3.7510901 40.3747312),Somos lo que comemos,butcher,,,,,,,,,,,,-3.7510901,40.3747312,-417571,4494515,somos lo que comemos,518
+POINT (-3.7511613 40.3746103),Kashaq,clothes,,,,,,,,,,,,-3.7511613,40.3746103,-417579,4494502,kashaq,518
+POINT (-3.7511734 40.3745721),Nuevo Decor,interior_decoration,,,,,,,,,,,,-3.7511734,40.3745721,-417581,4494497,nuevo decor,518
+POINT (-3.7512393 40.3744255),BBVA,,bank,,,,,,,,BBVA,,,-3.7512393,40.3744255,-417588,4494481,bbva,518
+POINT (-3.7507188 40.3750143),Caixabank,,bank,,,,,,,,Caixabank,Caixabank,,-3.7507188,40.3750143,-417530,4494547,caixabank,518
+POINT (-3.7507173 40.3748888),Chipper-Digi,mobile_phone,,,,,,,,,,,,-3.7507173,40.3748888,-417530,4494533,chipper-digi,518
+POINT (-3.7507764 40.3746783),La Plaza de DIA,supermarket,,,,,,,,,La Plaza de DIA,,,-3.7507764,40.3746783,-417536,4494509,la plaza de dia,518
+POINT (-3.7509136 40.3743649),G P Murillo,paint,,,,,,,,,,,,-3.7509136,40.3743649,-417552,4494474,g p murillo,518
+POINT (-3.75075 40.374773),Expendeduria Número 379,tobacco,,,,,,,,,,,,-3.75075,40.374773,-417533,4494520,expendeduria número 379,518
+POINT (-3.7507285 40.3748332),Opticas Factory BOOM.,optician,,,,,,,,,,,,-3.7507285,40.3748332,-417531,4494526,opticas factory boom.,518
+POINT (-3.7509515 40.3740254),Ms & Mr Language,,language_school,,,,,,,,,,,-3.7509515,40.3740254,-417556,4494437,ms & mr language,518
+POINT (-3.7509556 40.3739108),Unide Market,supermarket,,,,,,,,,,,,-3.7509556,40.3739108,-417556,4494424,unide market,518
+POINT (-3.7512606 40.3743557),La Frutería del Barrio,greengrocer,,,,,,,,,,,,-3.7512606,40.3743557,-417590,4494473,la frutería del barrio,518
+POINT (-3.7512985 40.3742762),Oroquiel,pawnbroker,,,,,,,,,,,,-3.7512985,40.3742762,-417595,4494464,oroquiel,518
+POINT (-3.7513531 40.3740826),Farmacia Tavira Zamora,,pharmacy,,pharmacy,,,,,,,,,-3.7513531,40.3740826,-417601,4494443,farmacia tavira zamora,518
+POINT (-3.7514074 40.3739682),Administración de Lotería 511,lottery,,,,,,,,,,,,-3.7514074,40.3739682,-417607,4494430,administración de lotería 511,518
+POINT (-3.7510776 40.3749514),Super Bazar,variety_store,,,,,,,,,,,,-3.7510776,40.3749514,-417570,4494540,super bazar,518
+POINT (-3.7510738 40.3753085),Mini Mercado,convenience,,,,,,,,,,,,-3.7510738,40.3753085,-417570,4494579,mini mercado,518
+POINT (-3.7510576 40.375402),Majessia,bakery,,,,,,,,,,,,-3.7510576,40.375402,-417568,4494590,majessia,518
+POINT (-3.7507094 40.3752203),Mara frutas y verduras,greengrocer,,,,,,,,,,,,-3.7507094,40.3752203,-417529,4494570,mara frutas y verduras,518
+POINT (-3.7057487 40.4216602),,,post_box,,,,,,,,,,,-3.7057487,40.4216602,-412524,4499739,,1326
+POINT (-3.752635 40.3726393),Imprenta Fotocopias,stationery,,,,,,,,,,,,-3.752635,40.3726393,-417743,4494282,imprenta fotocopias,518
+POINT (-3.7524622 40.3727632),Artes Gráficas Cañada S.L.,stationery,,,,,,,,,,,,-3.7524622,40.3727632,-417724,4494296,artes gráficas cañada s.l.,518
+POINT (-3.7520496 40.373028),Magnolia,florist,,,,,,,,,,,,-3.7520496,40.373028,-417678,4494325,magnolia,518
+POINT (-3.7515902 40.3733129),Panadería Grosella,bakery,,,,,,,,,,,,-3.7515902,40.3733129,-417627,4494357,panadería grosella,518
+POINT (-3.7516532 40.3731364),Brandon's,,restaurant,,,,,,,,,,,-3.7516532,40.3731364,-417634,4494338,brandon's,518
+POINT (-3.7516756 40.3730775),Merceria Hace Arreglos,sewing,,,,,,,,,,,,-3.7516756,40.3730775,-417637,4494331,merceria hace arreglos,518
+POINT (-3.7516959 40.3730202),Decoforma,interior_decoration,,,,,,,,,,,,-3.7516959,40.3730202,-417639,4494325,decoforma,518
+POINT (-3.7516146 40.3732107),Bar Doble-Pe,,bar,,,,,,,,,,,-3.7516146,40.3732107,-417630,4494346,bar doble-pe,518
+POINT (-3.7517455 40.3728719),Teo Kebab,,fast_food,,,,,,,,,,kebab,-3.7517455,40.3728719,-417644,4494308,teo kebab,518
+POINT (-3.7518203 40.372694),Gimnasio Emperatriz,,,,,,fitness_centre,,,,,,,-3.7518203,40.372694,-417653,4494288,gimnasio emperatriz,518
+POINT (-3.7518215 40.3731929),Está en ti,hairdresser,,,,,,,,,,,,-3.7518215,40.3731929,-417653,4494344,está en ti,518
+POINT (-3.7529041 40.3724704),Casa Frami,,,guest_house,,,,,,,,,,-3.7529041,40.3724704,-417773,4494263,casa frami,518
+POINT (-3.7522633 40.3720355),Merkalatino,convenience,,,,,,,,,,,,-3.7522633,40.3720355,-417702,4494215,merkalatino,518
+POINT (-3.7524319 40.3718443),Peluquería Otman,hairdresser,,,,,,,,,,,,-3.7524319,40.3718443,-417721,4494194,peluquería otman,518
+POINT (-3.7525159 40.371766),Alimentacion Latina Rumana,convenience,,,,,,,,,,,,-3.7525159,40.371766,-417730,4494185,alimentacion latina rumana,518
+POINT (-3.7530774 40.3723669),"Molduras Cuadros ""El 20""",frame,,,,,,,,,,,,-3.7530774,40.3723669,-417793,4494252,"molduras cuadros ""el 20""",518
+POINT (-3.7516662 40.3723258),Res Peluqueros,hairdresser,,,,,,,,,,,,-3.7516662,40.3723258,-417635,4494247,res peluqueros,518
+POINT (-3.7516305 40.3724277),City Bazar S.L,variety_store,,,,,,,,,,,,-3.7516305,40.3724277,-417632,4494259,city bazar s.l,518
+POINT (-3.7514885 40.3727463),Carnicería Anwal,butcher,,,,,,,,,,,,-3.7514885,40.3727463,-417616,4494294,carnicería anwal,518
+POINT (-3.7514401 40.3728297),La Nueva Fotografia,photo,,,,,,,,,,,,-3.7514401,40.3728297,-417610,4494303,la nueva fotografia,518
+POINT (-3.7510115 40.3734417),Persianas DAS,window_blind,,,,,,,,,,,,-3.7510115,40.3734417,-417563,4494372,persianas das,518
+POINT (-3.7510773 40.3733802),Mesón Lucio,,restaurant,,,,,,,,,,,-3.7510773,40.3733802,-417570,4494365,mesón lucio,518
+POINT (-3.75114 40.3732958),Ernesto Peluqueros,hairdresser,,,,,,,,,,,,-3.75114,40.3732958,-417577,4494355,ernesto peluqueros,518
+POINT (-3.7512238 40.3731073),Horreo de Valmayor,,restaurant,,,,,,,,,,steak_house,-3.7512238,40.3731073,-417586,4494334,horreo de valmayor,518
+POINT (-3.6506515 40.4263754),La Paloma II,,restaurant,,,,,,,,,,,-3.6506515,40.4263754,-406391,4500264,la paloma ii,305
+POINT (-3.6578929 40.3934636),Portacos Bar,,restaurant,,,,,Calle Josefa Díaz,4,28038,,,mexican,-3.6578929,40.3934636,-407197,4496600,portacos bar,611
+POINT (-3.6574524 40.3919824),Vitaldent,,dentist,,dentist,,,,,,Vitaldent,,,-3.6574524,40.3919824,-407148,4496435,vitaldent,611
+POINT (-3.7531528 40.3726782),Sidrería el Rinconcito,,bar,,,,,,,,,,,-3.7531528,40.3726782,-417801,4494287,sidrería el rinconcito,518
+POINT (-3.7531553 40.372583),Bar Vegas,,bar,,,,,,,,,,,-3.7531553,40.372583,-417801,4494276,bar vegas,518
+POINT (-3.7527624 40.3725771),Pollos Asados Barbacoa,,fast_food,,,,,,,,,,chicken,-3.7527624,40.3725771,-417758,4494275,pollos asados barbacoa,518
+POINT (-3.7525506 40.372686),Rafael Durán,jewelry,,,,,,,,,,,,-3.7525506,40.372686,-417734,4494287,rafael durán,518
+POINT (-3.7521283 40.3729757),OpenBlue,laundry,,,,,,,,,,,,-3.7521283,40.3729757,-417687,4494320,openblue,518
+POINT (-3.7519943 40.3733271),Frutas y Verduras Internacional,greengrocer,,,,,,,,,,,,-3.7519943,40.3733271,-417672,4494359,frutas y verduras internacional,518
+POINT (-3.7517294 40.373512),Tecnocasa,,,,,estate_agent,,,,,Tecnocasa,,,-3.7517294,40.373512,-417643,4494379,tecnocasa,518
+POINT (-3.7515725 40.3736605),Locutorio Internet,variety_store,,,,,,,,,,,,-3.7515725,40.3736605,-417625,4494396,locutorio internet,518
+POINT (-3.7515256 40.3737746),Carolina Pulido,hairdresser,,,,,,,,,,,,-3.7515256,40.3737746,-417620,4494409,carolina pulido,518
+POINT (-3.7514425 40.3739121),Madroñal,,pub,,,,,,,,,,,-3.7514425,40.3739121,-417611,4494424,madroñal,518
+POINT (-3.7513379 40.3741664),+ Visión,optician,,,,,,,,,,,,-3.7513379,40.3741664,-417599,4494452,+ visión,518
+POINT (-3.7512116 40.3744619),El Emperador,,restaurant,,,,,,,,,,,-3.7512116,40.3744619,-417585,4494485,el emperador,518
+POINT (-3.7509626 40.3743121),Abogada Administración de Fincas,,,,,lawyer,,,,,,,,-3.7509626,40.3743121,-417557,4494468,abogada administración de fincas,518
+POINT (-3.7511954 40.3745348),Eurorepar,car_repair,,,,,,,,,,,,-3.7511954,40.3745348,-417583,4494493,eurorepar,518
+POINT (-3.7511322 40.374664),Sportium,bookmaker,,,,,,,,,,,,-3.7511322,40.374664,-417576,4494508,sportium,518
+POINT (-3.7510763 40.3747781),Mercedes-Benz,car_repair,,,,,,,,,Mercedes-Benz,,,-3.7510763,40.3747781,-417570,4494520,mercedes-benz,518
+POINT (-3.7510672 40.3748386),Sedy,shoes,,,,,,,,,,,,-3.7510672,40.3748386,-417569,4494527,sedy,518
+POINT (-3.7508237 40.3746214),Cardy's,beauty,,,,,,,,,,,,-3.7508237,40.3746214,-417542,4494503,cardy's,518
+POINT (-3.7510763 40.375042),Urbamar,,,,,estate_agent,,,,,,,,-3.7510763,40.375042,-417570,4494550,urbamar,518
+POINT (-3.750719 40.3749444),Taller de Costura Marybel,sewing,,,,,,,,,,,,-3.750719,40.3749444,-417530,4494539,taller de costura marybel,518
+POINT (-3.751075 40.3752447),Brillos,hairdresser,,,,,,,,,,,,-3.751075,40.3752447,-417570,4494572,brillos,518
+POINT (-3.7510745 40.3752083),Sueño Natura,greengrocer,,,,,,,,,,,,-3.7510745,40.3752083,-417570,4494568,sueño natura,518
+POINT (-3.7510605 40.3754421),Boutique Titomar,clothes,,,,,,,,,,,,-3.7510605,40.3754421,-417568,4494594,boutique titomar,518
+POINT (-3.7508614 40.3734842),Banco Santander,,bank,,,,,,,,Banco Santander,,,-3.7508614,40.3734842,-417546,4494376,banco santander,518
+POINT (-3.7511831 40.3732251),VivantaDental,,dentist,,dentist,,,,,,,,,-3.7511831,40.3732251,-417582,4494347,vivantadental,518
+POINT (-3.7513266 40.3729802),Abraham,perfumery,,,,,,,,,,,,-3.7513266,40.3729802,-417598,4494320,abraham,518
+POINT (-3.7513675 40.3729268),Merino,,,,,insurance,,,,,,,,-3.7513675,40.3729268,-417602,4494314,merino,518
+POINT (-3.7513995 40.3728863),Fisio Active,,,,physiotherapist,,,,,,,,,-3.7513995,40.3728863,-417606,4494310,fisio active,518
+POINT (-3.7529818 40.3721062),Máquinas de Escribir,yes,,,,,,,,,,,,-3.7529818,40.3721062,-417782,4494223,máquinas de escribir,518
+POINT (-3.7528411 40.3721117),Street Style,hairdresser,,,,,,,,,,,,-3.7528411,40.3721117,-417766,4494223,street style,518
+POINT (-3.7523702 40.3719217),El Rincón de Epi y Blas,bakery,,,,,,,,,,,,-3.7523702,40.3719217,-417714,4494202,el rincón de epi y blas,518
+POINT (-3.7523102 40.3719904),RSS Mobile Telecom,variety_store,,,,,,,,,,,,-3.7523102,40.3719904,-417707,4494210,rss mobile telecom,518
+POINT (-3.7095965 40.3947004),Pérez-Illán Automoción,car_repair,,,,,,,,,,,,-3.7095965,40.3947004,-412952,4496738,pérez-illán automoción,569
+POINT (-3.763023 40.3914205),Frutas selectas,greengrocer,,,,,,,,,,,,-3.763023,40.3914205,-418900,4496373,frutas selectas,266
+POINT (-3.732609 40.3964262),Empanadas y Buñuelos Romo,convenience,,,,,,,,,,,,-3.732609,40.3964262,-415514,4496930,empanadas y buñuelos romo,504
+POINT (-3.732959 40.3961668),Productos Rumanos,convenience,,,,,,,,,,,,-3.732959,40.3961668,-415553,4496901,productos rumanos,504
+POINT (-3.7330583 40.3960933),Cafetería Musical,,restaurant,,,,,,,,,,,-3.7330583,40.3960933,-415564,4496893,cafetería musical,504
+POINT (-3.7327981 40.3960494),Alistano,,restaurant,,,,,,,,,,,-3.7327981,40.3960494,-415535,4496888,alistano,504
+POINT (-3.7325835 40.3959166),Chapa y Pintura,car_repair,,,,,,,,,,,,-3.7325835,40.3959166,-415511,4496873,chapa y pintura,504
+POINT (-3.7319693 40.3963527),Entre Nenúfares,nutrition_supplements,,,,,,,,,,,,-3.7319693,40.3963527,-415443,4496922,entre nenúfares,504
+POINT (-3.7323689 40.3963394),Ritual,,pub,,,,,,,,,,,-3.7323689,40.3963394,-415487,4496921,ritual,504
+POINT (-3.732145 40.3965233),Vaiven,,cafe,,,,,,,,,,,-3.732145,40.3965233,-415462,4496941,vaiven,504
+POINT (-3.7316729 40.3969124),Fast & Good Comida a domicilio,,fast_food,,,,,,,,,,,-3.7316729,40.3969124,-415410,4496984,fast & good comida a domicilio,504
+POINT (-3.7338045 40.3955845),,convenience,,,,,,,,,,,,-3.7338045,40.3955845,-415647,4496836,,504
+POINT (-3.7338249 40.3955214),El Patio Azul Bazar,convenience,,,,,,,,,,,,-3.7338249,40.3955214,-415649,4496829,el patio azul bazar,504
+POINT (-3.7341291 40.3949774),El Chrif,greengrocer,,,,,,,,,,,,-3.7341291,40.3949774,-415683,4496769,el chrif,504
+POINT (-3.7334989 40.3957603),Frutas Selectas,greengrocer,,,,,,,,,,,,-3.7334989,40.3957603,-415613,4496856,frutas selectas,504
+POINT (-3.7334887 40.3955379),El Ranchito,,restaurant,,,,,,,,,,colombian,-3.7334887,40.3955379,-415612,4496831,el ranchito,504
+POINT (-3.6911892 40.4287454),Patio Siete,,restaurant,,,,,Calle de Fortuny,7,28010,,,regional;international,-3.6911892,40.4287454,-410903,4500528,patio siete,712
+POINT (-3.7628904 40.3912601),Papelería,stationery,,,,,,,,,,,,-3.7628904,40.3912601,-418885,4496355,papelería,266
+POINT (-3.6995782 40.4596514),Mulan,clothes,,,,,,,,,,,,-3.6995782,40.4596514,-411837,4503968,mulan,920
+POINT (-3.6868808 40.3861144),Las tapas de bacalao,,restaurant,,,,,,,,,,,-3.6868808,40.3861144,-410424,4495782,las tapas de bacalao,299
+POINT (-3.6867382 40.3862005),Alimentación,convenience,,,,,,,,,,,,-3.6867382,40.3862005,-410408,4495792,alimentación,299
+POINT (-3.6869723 40.3860498),Alimentación,convenience,,,,,,,,,,,,-3.6869723,40.3860498,-410434,4495775,alimentación,299
+POINT (-3.6872135 40.3858871),Riggersa,,,,,architect,,,,,,,,-3.6872135,40.3858871,-410461,4495757,riggersa,299
+POINT (-3.6579837 40.3932312),Shanty Town,,pub,,,,,Calle Josefa Díaz,4,28038,,,,-3.6579837,40.3932312,-407207,4496574,shanty town,611
+POINT (-3.7090297 40.4725252),MAE Recovery,computer,,,,,,Calle de Ribadavia,25,28029,Apple Store,,,-3.7090297,40.4725252,-412889,4505402,mae recovery,449
+POINT (-3.762943 40.3912924),,hairdresser,,,,,,,,,,,,-3.762943,40.3912924,-418891,4496359,,266
+POINT (-3.7629111 40.391242),Farmacia y Ortodoncia,,pharmacy,,,,,,,,,,,-3.7629111,40.391242,-418887,4496353,farmacia y ortodoncia,266
+POINT (-3.7325573 40.4123218),Katy's Hair,hairdresser,,,,,,Paseo de Extremadura,92,,,,,-3.7325573,40.4123218,-415508,4498700,katy's hair,452
+POINT (-3.6358408 40.3767428),,,post_box,,,,,,,,,Correos,,-3.6358408,40.3767428,-404742,4494739,,61
+POINT (-3.7085574 40.4162467),Bar Gyoza Go!,,restaurant,,,,,Plaza del Comandante Las Morenas,5,28013,,,,-3.7085574,40.4162467,-412837,4499137,bar gyoza go!,1225
+POINT (-3.7093234 40.4120648),El Mono Bikers & Beer bar,,pub,,,,,Calle de la Cava Alta,19,,,,,-3.7093234,40.4120648,-412922,4498671,el mono bikers & beer bar,1179
+POINT (-3.7079784 40.428868),,,cafe,,,,,Calle del Acuerdo,31,,,,,-3.7079784,40.428868,-412772,4500542,,1102
+POINT (-3.6129601 40.3719963),Corner,,restaurant,,,,,,,,,,,-3.6129601,40.3719963,-402195,4494211,corner,71
+POINT (-3.6962852 40.4260633),Natif Cafe y Cocina,,cafe,,,,,,,,,,breakfast;coffee_shop,-3.6962852,40.4260633,-411470,4500229,natif cafe y cocina,1087
+POINT (-3.6367099 40.3771472),Belcar,car_repair,,,,,,,,,,,,-3.6367099,40.3771472,-404839,4494784,belcar,61
+POINT (-3.6369085 40.3780932),Discarlux,butcher,,,,,,Calle del Tranvía a las Canteras de Monte Viejo,14,,,,,-3.6369085,40.3780932,-404861,4494889,discarlux,61
+POINT (-3.6935612 40.4125463),Caixabank,,atm,,,,,,,,Caixabank,Caixabank,,-3.6935612,40.4125463,-411167,4498725,caixabank,1072
+POINT (-3.6126682 40.3724064),Tricicle,,restaurant,,,,,,,,,,,-3.6126682,40.3724064,-402162,4494256,tricicle,71
+POINT (-3.7031497 40.4152635),Oysho,clothes,,,,,,,,,Oysho,,,-3.7031497,40.4152635,-412235,4499027,oysho,1247
+POINT (-3.6990227 40.4151233),Decadente,,restaurant,,,,,,,,,,,-3.6990227,40.4151233,-411775,4499012,decadente,1214
+POINT (-3.6359947 40.376734),,,post_office,,,,,,,,,Correos,,-3.6359947,40.376734,-404759,4494738,,61
+POINT (-3.6360286 40.3767479),Correos,collector,,,,,,,,,,Correos,,-3.6360286,40.3767479,-404763,4494740,correos,61
+POINT (-3.6954945 40.4234278),Scotch & Soda,clothes,,,,,,,,,Scotch & Soda,,,-3.6954945,40.4234278,-411382,4499936,scotch & soda,1183
+POINT (-3.6957036 40.4221925),Padrino,,pub,,,,,,,,,,,-3.6957036,40.4221925,-411406,4499798,padrino,1183
+POINT (-3.6957782 40.4216077),Supercor,supermarket,,,,,,Calle del Barquillo,15,,Supercor,,,-3.6957782,40.4216077,-411414,4499733,supercor,1183
+POINT (-3.6360366 40.3767256),,,atm,,,,,,,,,Euro Automatic Cash,,-3.6360366,40.3767256,-404764,4494737,,61
+POINT (-3.6005491 40.425546),Madrid vertical,,,,,,sports_centre,Calle de Sofía,34,,,,,-3.6005491,40.425546,-400813,4500172,madrid vertical,219
+POINT (-3.6502793 40.4264969),Tabacos Timbre,tobacco,,,,,,,,,,,,-3.6502793,40.4264969,-406349,4500278,tabacos timbre,305
+POINT (-3.7528796 40.3729351),Covenland,outpost,,,,,,,,,,,,-3.7528796,40.3729351,-417771,4494315,covenland,518
+POINT (-3.75323 40.3725186),Gestoria MJ,,,,,financial_advisor,,,,,,,,-3.75323,40.3725186,-417810,4494269,gestoria mj,518
+POINT (-3.7533378 40.3724758),Estudio L,,,,,architect,,,,,,,,-3.7533378,40.3724758,-417822,4494264,estudio l,518
+POINT (-3.7534561 40.3724157),Exclusivas Rizos S.L.,perfumery,,,,,,,,,,,,-3.7534561,40.3724157,-417835,4494257,exclusivas rizos s.l.,518
+POINT (-3.7533628 40.3722373),Boutique Ana,clothes,,,,,,,,,,,,-3.7533628,40.3722373,-417824,4494237,boutique ana,518
+POINT (-3.7527919 40.3719522),Amazon Hub Locker,,parcel_locker,,,,,,,,Amazon Hub,,,-3.7527919,40.3719522,-417761,4494206,amazon hub locker,518
+POINT (-3.6996757 40.4598187),Alpes,,,,,travel_agent,,,,,,,,-3.6996757,40.4598187,-411848,4503987,alpes,920
+POINT (-3.6576394 40.3933532),PizzaKore,,restaurant,,,,,,,,,,,-3.6576394,40.3933532,-407168,4496588,pizzakore,611
+POINT (-3.6881755 40.4221452),Liu Jo,clothes,,,,,,,,,Liu Jo,,,-3.6881755,40.4221452,-410568,4499793,liu jo,913
+POINT (-3.6882466 40.4217399),Malababa,fashion_accessories,,,,,,,,,,,,-3.6882466,40.4217399,-410576,4499748,malababa,913
+POINT (-3.6883928 40.4207883),,alcohol,,,,,,,,,Johnnie Walker,,,-3.6883928,40.4207883,-410592,4499642,,913
+POINT (-3.7089122 40.4125147),La Taba,,restaurant,,,,,Calle de la Cava Baja,19,28005,,,spanish;regional,-3.7089122,40.4125147,-412876,4498721,la taba,1179
+POINT (-3.6106671 40.3688456),fisiorehabilitación Vallecas,,,,physiotherapist,,,,,,,,,-3.6106671,40.3688456,-401939,4493860,fisiorehabilitación vallecas,71
+POINT (-3.6120239 40.3693909),Churrería Montesol,,fast_food,,,,,,,,,,churro,-3.6120239,40.3693909,-402091,4493921,churrería montesol,71
+POINT (-3.6360529 40.3767257),CityPaq,,parcel_locker,,,,,,,,CityPaq,Correos,,-3.6360529,40.3767257,-404765,4494737,citypaq,61
+POINT (-3.708877 40.4781909),Loira,deli,,,,,,Avenida de Monforte de Lemos,117,28029,,,,-3.708877,40.4781909,-412872,4506032,loira,468
+POINT (-3.6349463 40.3767513),Cafetería Correos,,restaurant,,,,,,,,,,,-3.6349463,40.3767513,-404642,4494740,cafetería correos,61
+POINT (-3.7032096 40.4147028),From Madrid with Love,gift,,,,,,,,,,,,-3.7032096,40.4147028,-412241,4498965,from madrid with love,1247
+POINT (-3.7040631 40.4194856),MU! El Placer de la Carne,,restaurant,,,,,Calle de Chinchilla,3,28013,,,argentinian,-3.7040631,40.4194856,-412336,4499497,mu! el placer de la carne,1156
+POINT (-3.7085499 40.4161273),Las Muns,,fast_food,,,,,,,,,,,-3.7085499,40.4161273,-412836,4499123,las muns,1225
+POINT (-3.6006045 40.4259765),Andy Cafeteria Bar Fusión,,cafe,,,,,Calle de Sofía,38,28022,,,,-3.6006045,40.4259765,-400819,4500220,andy cafeteria bar fusión,219
+POINT (-3.7096881 40.3947329),Mesón Restaurante,,restaurant,,,,,,,,,,,-3.7096881,40.3947329,-412962,4496742,mesón restaurante,569
+POINT (-3.7097316 40.3947568),Bar Tío Teo,,pub,,,,,,,,,,,-3.7097316,40.3947568,-412967,4496744,bar tío teo,569
+POINT (-3.6360551 40.3764194),Euritmia gimnasia rítmica,,,,,,fitness_centre,,,,,,,-3.6360551,40.3764194,-404766,4494703,euritmia gimnasia rítmica,61
+POINT (-3.702717 40.4267493),Alphaville Sport,clothes,,,,,,Calle de Velarde,7,28004,,,,-3.702717,40.4267493,-412186,4500306,alphaville sport,1338
+POINT (-3.7075261 40.4296076),Raw acai,,fast_food,,,,,,,,,,juice,-3.7075261,40.4296076,-412722,4500624,raw acai,1102
+POINT (-3.702562 40.4268051),,vacant,,,,,,Calle de Velarde,12,28004,,,,-3.702562,40.4268051,-412169,4500312,,1338
+POINT (-3.7058375 40.4217843),"Mamá, es el Último Tattoo",tattoo,,,,,,,,,,,,-3.7058375,40.4217843,-412534,4499753,"mamá, es el último tattoo",1326
+POINT (-3.7083633 40.4215682),Don Jamón,,bar,,,,,,,,,,,-3.7083633,40.4215682,-412815,4499729,don jamón,1257
+POINT (-3.7083234 40.4215474),Twenty Nine's,,restaurant,,,,,,,,,,,-3.7083234,40.4215474,-412811,4499727,twenty nine's,1257
+POINT (-3.6130009 40.3706488),,,taxi,,,,,,,,,,,-3.6130009,40.3706488,-402199,4494061,,71
+POINT (-3.7082552 40.418625),HanSo Café 2,,cafe,,,,,,,,,,,-3.7082552,40.418625,-412803,4499401,hanso café 2,1265
+POINT (-3.7093584 40.4123529),Taberna La Cava,,bar,,,,,,,,,,,-3.7093584,40.4123529,-412926,4498703,taberna la cava,1179
+POINT (-3.7111377 40.3448563),Confecciones Calderon,clothes,,,,,,Calle de Nuestra Señora de Begoña,2,28021,,,,-3.7111377,40.3448563,-413124,4491189,confecciones calderon,131
+POINT (-3.7111118 40.3449071),La Paloma,bakery,,,,,,Calle de Villastar,2B,28021,,,,-3.7111118,40.3449071,-413121,4491195,la paloma,131
+POINT (-3.6938514 40.4124712),Umami Speciality Coffee,,cafe,,,,,,,,,,,-3.6938514,40.4124712,-411200,4498716,umami speciality coffee,1072
+POINT (-3.7111629 40.3447176),Tonos,,pub,,,,,Calle de Villastar,,,,,,-3.7111629,40.3447176,-413127,4491174,tonos,131
+POINT (-3.7113687 40.3448146),,,pharmacy,,,,,,,,,,,-3.7113687,40.3448146,-413150,4491185,,131
+POINT (-3.7114044 40.3461686),Carovi,,bar,,,,,,,,,,,-3.7114044,40.3461686,-413154,4491335,carovi,131
+POINT (-3.7110587 40.345731),Charcutería El Rubio,butcher,,,,,,Calle de la Aladierna,19,28021,,,,-3.7110587,40.345731,-413115,4491287,charcutería el rubio,131
+POINT (-3.7120316 40.3461523),La Sirena,supermarket,,,,,,,,,,,,-3.7120316,40.3461523,-413223,4491334,la sirena,131
+POINT (-3.7121172 40.346153),Barber shop,hairdresser,,,,,,,,28021,,,,-3.7121172,40.346153,-413233,4491334,barber shop,131
+POINT (-3.7090635 40.3463182),Paz,shoes,,,,,,,,28021,,,,-3.7090635,40.3463182,-412893,4491352,paz,131
+POINT (-3.7091366 40.3460223),Nova,,bar,,,,,,,28021,,,,-3.7091366,40.3460223,-412901,4491319,nova,131
+POINT (-3.7090274 40.345829),Western Union,,money_transfer,,,,,Avenida de la Espinela,,28021,,,,-3.7090274,40.345829,-412889,4491298,western union,131
+POINT (-3.7093063 40.3456386),Dragon Telecom,computer,,,,,,,,28021,,,,-3.7093063,40.3456386,-412920,4491276,dragon telecom,131
+POINT (-3.7110648 40.3457763),Western Union,,money_transfer,,,,,Calle de la Aladierna,19,28021,,,,-3.7110648,40.3457763,-413116,4491292,western union,131
+POINT (-3.7101337 40.3461188),Salon de juego Victory,bookmaker,,,,,,Paseo de Alberto Palacios,,28021,,,,-3.7101337,40.3461188,-413012,4491330,salon de juego victory,131
+POINT (-3.7094315 40.3462595),Caixabank,,bank,,,,,Paseo de Alberto Palacios,,28021,Caixabank,,,-3.7094315,40.3462595,-412934,4491346,caixabank,131
+POINT (-3.709005 40.3458849),Churrería La Original,,bar,,,,,Avenida de la Espinela,,28021,,,,-3.709005,40.3458849,-412886,4491304,churrería la original,131
+POINT (-3.7090622 40.3457515),The Fenix Barber,hairdresser,,,,,,Avenida de la Espinela,,28021,,,,-3.7090622,40.3457515,-412893,4491289,the fenix barber,131
+POINT (-3.7090742 40.3457106),Salon de belleza Queens,beauty,,,,,,Avenida de la Espinela,,28021,,,,-3.7090742,40.3457106,-412894,4491285,salon de belleza queens,131
+POINT (-3.7092991 40.3456558),Panadería Vital Pan,bakery,,,,,,Avenida de la Espinela,,28021,,,,-3.7092991,40.3456558,-412919,4491278,panadería vital pan,131
+POINT (-3.7108568 40.3459895),Loterías y apuestas del estado,lottery,,,,,,Paseo de Alberto Palacios,,28021,,,,-3.7108568,40.3459895,-413093,4491316,loterías y apuestas del estado,131
+POINT (-3.7102281 40.3461047),Casa global,convenience,,,,,,Paseo de Alberto Palacios,,28021,,,,-3.7102281,40.3461047,-413023,4491328,casa global,131
+POINT (-3.7091106 40.3456256),Joyería Araceli,jewelry,,,,,,Avenida de la Espinela,,28021,,,,-3.7091106,40.3456256,-412898,4491275,joyería araceli,131
+POINT (-3.7102472 40.3461695),El Paseo,newsagent,,,,,,Paseo de Alberto Palacios,,28021,,,,-3.7102472,40.3461695,-413025,4491336,el paseo,131
+POINT (-3.7090552 40.3457853),Herbolario La ventana natural,nutrition_supplements,,,,,,Avenida de la Espinela,,28021,,,,-3.7090552,40.3457853,-412892,4491293,herbolario la ventana natural,131
+POINT (-3.7104242 40.3460598),Multiopticas,optician,,,,,,,,28021,,,,-3.7104242,40.3460598,-413044,4491323,multiopticas,131
+POINT (-3.7102765 40.3456311),Alimentación y bazar,convenience,,,,,,,,,,,,-3.7102765,40.3456311,-413028,4491276,alimentación y bazar,131
+POINT (-3.6970962 40.4257773),Le Labo,perfumery,,,,,,Calle de Fernando VI,,28004,,,,-3.6970962,40.4257773,-411561,4500198,le labo,1087
+POINT (-3.696764 40.4257349),Tea Shop,deli,,,,,,Calle de Fernando VI,,28004,,,,-3.696764,40.4257349,-411524,4500193,tea shop,1087
+POINT (-3.6988769 40.4155112),el chararrito,,restaurant,,,,,,,,,,mexican,-3.6988769,40.4155112,-411759,4499055,el chararrito,1214
+POINT (-3.6989023 40.4153126),Terezza,,restaurant,,,,,,,,,,venezuelan,-3.6989023,40.4153126,-411762,4499033,terezza,1214
+POINT (-3.6988379 40.450881),Infinito Café,,cafe,,,,,,,,,,,-3.6988379,40.450881,-411755,4502992,infinito café,739
+POINT (-3.6853522 40.4512567),Centro de salud Segre,,,,yes,,,,,,,Comunidad de Madrid,,-3.6853522,40.4512567,-410253,4503034,centro de salud segre,607
+POINT (-3.6990516 40.4152291),Feliz Coffee,,cafe,,,,,Calle de Ventura de la Vega,18,,,,,-3.6990516,40.4152291,-411778,4499023,feliz coffee,1214
+POINT (-3.6991084 40.4152077),Belli di mamma,,restaurant,,,,,Calle de Manuel Fernández y González,17,,,,,-3.6991084,40.4152077,-411785,4499021,belli di mamma,1214
+POINT (-3.7315505 40.4116569),Casa La Chula,,bar,,,,,Calle de Guadarrama,8,28011,,,,-3.7315505,40.4116569,-415396,4498626,casa la chula,452
+POINT (-3.6005503 40.4242491),Biciarea Shimano Service Center,bicycle,,,,,,Calle de Sofía,177,28022,,,,-3.6005503,40.4242491,-400813,4500027,biciarea shimano service center,219
+POINT (-3.6903598 40.427878),HALO Space,,,,,company,,Paseo de la Castellana,13,28046,,,,-3.6903598,40.427878,-410811,4500431,halo space,712
+POINT (-3.7534826 40.4049747),"Clínica Dental ""HEFZIBA"" S.L.",,dentist,,dentist,,,,,,,,,-3.7534826,40.4049747,-417838,4497882,"clínica dental ""hefziba"" s.l.",457
+POINT (-3.6889134 40.3863749),Circuitor,,charging_station,,,,,,,,,,,-3.6889134,40.3863749,-410650,4495811,circuitor,299
+POINT (-3.754003 40.4054483),Laboratorio Dental Luis Pereira,,dentist,,dentist,,,,,,,,,-3.754003,40.4054483,-417896,4497935,laboratorio dental luis pereira,457
+POINT (-3.7545159 40.4044403),Vinca Minor,perfumery,,,,,,,,,,,,-3.7545159,40.4044403,-417953,4497822,vinca minor,457
+POINT (-3.7536053 40.4055657),Inmobiliaria Batán,,,,,estate_agent,,,,,,,,-3.7536053,40.4055657,-417851,4497948,inmobiliaria batán,457
+POINT (-3.7530667 40.4066209),Centro de Estética Pilar Redolat,beauty,,,,,,,,,,,,-3.7530667,40.4066209,-417791,4498065,centro de estética pilar redolat,457
+POINT (-3.7531466 40.4065841),Fruteria Del Barrio Auto Servicio,greengrocer,,,,,,,,,,,,-3.7531466,40.4065841,-417800,4498061,fruteria del barrio auto servicio,457
+POINT (-3.7536132 40.4056895),Lavinia Peluqueros,hairdresser,,,,,,,,,,,,-3.7536132,40.4056895,-417852,4497961,lavinia peluqueros,457
+POINT (-3.6956014 40.4217003),,,cafe,,,,,Calle del Barquillo,18,,,,,-3.6956014,40.4217003,-411394,4499744,,1183
+POINT (-3.6955946 40.4216004),Diseño Japones,clothes,,,,,,Calle del Barquillo,18,,,,,-3.6955946,40.4216004,-411394,4499733,diseño japones,1183
+POINT (-3.6969142 40.4507394),Carl's Jr.,,fast_food,,,,,,,,Carl's Jr.,,burger,-3.6969142,40.4507394,-411540,4502976,carl's jr.,739
+POINT (-3.6976031 40.451125),Levaduramadre,bakery,,,,,,,,,,,,-3.6976031,40.451125,-411617,4503019,levaduramadre,739
+POINT (-3.6977621 40.4511218),Innovias,clothes,,,,,,,,,,,,-3.6977621,40.4511218,-411635,4503019,innovias,739
+POINT (-3.6978703 40.4511339),Parra,hairdresser,,,,,,,,,,,,-3.6978703,40.4511339,-411647,4503020,parra,739
+POINT (-3.6971939 40.4510999),Imagina,clothes,,,,,,,,,,,,-3.6971939,40.4510999,-411572,4503016,imagina,739
+POINT (-3.6974833 40.4511058),Susanna Fernández,,clinic,,clinic,,,,,,,,,-3.6974833,40.4511058,-411604,4503017,susanna fernández,739
+POINT (-3.6971384 40.4507825),Fetico,,,,,union,,,,,,,,-3.6971384,40.4507825,-411565,4502981,fetico,739
+POINT (-3.697857 40.4508086),Inmobiliaria Extra,,,,,estate_agent,,,,,,,,-3.697857,40.4508086,-411645,4502984,inmobiliaria extra,739
+POINT (-3.6577231 40.3932833),A las bravas,,restaurant,,,,,,,,,,burger,-3.6577231,40.3932833,-407178,4496580,a las bravas,611
+POINT (-3.7544639 40.4061528),Green Happyland,,events_venue,,,,,,,,,,,-3.7544639,40.4061528,-417947,4498013,green happyland,457
+POINT (-3.6574273 40.3931842),Tablao Flamenco Taberna El Cortijo,,music_venue,,,,dance,,,,,,,-3.6574273,40.3931842,-407145,4496569,tablao flamenco taberna el cortijo,611
+POINT (-3.6939248 40.4121048),Etual Café,,cafe,,,,,,,,,,breakfast;cake,-3.6939248,40.4121048,-411208,4498676,etual café,1072
+POINT (-3.6957524 40.4214607),Rsp Acustic,electrical,,,,,,Calle del Barquillo,15,,,,,-3.6957524,40.4214607,-411411,4499717,rsp acustic,1183
+POINT (-3.7532912 40.4059855),Las Uñas de Elena,beauty,,,,,,,,,,,,-3.7532912,40.4059855,-417816,4497994,las uñas de elena,457
+POINT (-3.730606027413595 40.44143974263919),Casa de Velázquez,,,,,research,,Calle de Paul Guinard,3,28040,,,,-3.730606027413595,40.44143974263919,-415291,4501941,casa de velázquez,87
+POINT (-3.729239290183264 40.44012013076642),Museo del Traje,,,museum,,,,Avenida Juan de Herrera,2,28040,,,,-3.729239290183264,40.44012013076642,-415139,4501794,museo del traje,87
+POINT (-3.683094619310308 40.41453911998617),Parque del Retiro,,,,,,park,,,,,,,-3.683094619310308,40.41453911998617,-410002,4498946,parque del retiro,211
+POINT (-3.6358319667380483 40.374822953773304),Veralia,trade,,,,,,Carretera de Villaverde a Vallecas,285,,,,,-3.635831966738048,40.3748229537733,-404741,4494525,veralia,61
+POINT (-3.726247553878802 40.443791371848526),Plaza de Ramón y Cajal,,,,,,park,,,,,,,-3.726247553878802,40.443791371848526,-414806,4502203,plaza de ramón y cajal,87
+POINT (-3.6858984650161837 40.3865744750719),,,,,,,park,,,,,,,-3.685898465016184,40.3865744750719,-410314,4495833,,299
+POINT (-3.6819880537176264 40.41518346874299),Palacio de Velázquez,,arts_centre,,,,,,,,,,,-3.6819880537176255,40.41518346874299,-409879,4499018,palacio de velázquez,211
+POINT (-3.6910922577340552 40.37671389196274),,,,,,,park,,,,,,,-3.6910922577340552,40.37671389196274,-410892,4494736,,116
+POINT (-3.705746362973737 40.346299041752154),Colegio de Educación Infantil y Primaria Manuel de Falla,,school,,,,,Calle Ágata,27,28021,,Comunidad de Madrid,,-3.705746362973737,40.34629904175216,-412524,4491350,colegio de educación infantil y primaria manuel de falla,131
+POINT (-3.7121638969627524 40.347925900754525),Instituto de Educación Secundaria Celestino Mutis,,school,,,,,Calle de la Huerta de Villaverde,15,28021,,Comunidad de Madrid,,-3.712163896962752,40.347925900754525,-413238,4491531,instituto de educación secundaria celestino mutis,122
+POINT (-3.6327854493223932 40.44501794970506),,,,,,,park,,,,,,,-3.632785449322393,40.44501794970506,-404402,4502339,,276
+POINT (-3.6353950460826865 40.443605692188115),,,,,,,park,,,,,,,-3.6353950460826874,40.44360569218812,-404692,4502182,,276
+POINT (-3.635727213397978 40.44405157299628),,,,,,,park,,,,,,,-3.635727213397978,40.44405157299628,-404729,4502232,,276
+POINT (-3.6341439709929686 40.44443067302542),,,,,,,park,,,,,,,-3.6341439709929686,40.44443067302542,-404553,4502274,,276
+POINT (-3.70514363291582 40.3482754599617),,,,,,,park,,,,,,,-3.70514363291582,40.3482754599617,-412457,4491570,,131
+POINT (-3.705908093156889 40.405030402029865),Lidl,supermarket,,,,,,,,,Lidl,,,-3.705908093156889,40.405030402029865,-412542,4497888,lidl,975
+POINT (-3.7316679981153875 40.43995305619105),,,,,,,park,,,,,,,-3.731667998115388,40.43995305619105,-415409,4501776,,87
+POINT (-3.690793648591728 40.428596307450604),Fiscalía General del Estado,,,,,government,,Calle de Fortuny,4,,,,,-3.690793648591728,40.42859630745061,-410859,4500511,fiscalía general del estado,712
+POINT (-3.7088132000407024 40.34677787793108),Plaza Ágata,,,,,,park,,,,,,,-3.7088132000407024,40.34677787793108,-412865,4491403,plaza ágata,131
+POINT (-3.7312586120576143 40.39712491369095),Plaza de Julio Cortázar,,,,,,park,,,,,,,-3.7312586120576143,40.39712491369095,-415364,4497008,plaza de julio cortázar,504
+POINT (-3.699070116499348 40.415071283615106),Apart-Hotel Suite Prado,,,hotel,,,,Calle de Manuel Fernández y González,10,28014,,,,-3.699070116499348,40.41507128361511,-411780,4499006,apart-hotel suite prado,1214
+POINT (-3.704646330272535 40.49185069821645),Cine Mirasierra Paraíso,,cinema,,,,,,,,,,,-3.704646330272535,40.49185069821645,-412401,4507553,cine mirasierra paraíso,158
+POINT (-3.7073700953853046 40.49375951673602),Escuela Universitaria de Fisioterapia de la ONCE,,university,,,,,Calle de Nuria,42,28034,,,,-3.7073700953853046,40.49375951673602,-412704,4507765,escuela universitaria de fisioterapia de la once,158
+POINT (-3.613364930905739 40.36922588858572),Parque del metro de La Gavia,,,,,,park,,,,,,,-3.613364930905739,40.36922588858572,-402240,4493902,parque del metro de la gavia,71
+POINT (-3.612444195314966 40.3711333456786),Ahorramás,supermarket,,,,,,,,,Ahorramás,,,-3.612444195314966,40.3711333456786,-402137,4494115,ahorramás,71
+POINT (-3.611403713862916 40.37063854433489),Mercadona,supermarket,,,,,,,,,Mercadona,,,-3.611403713862916,40.37063854433489,-402021,4494059,mercadona,71
+POINT (-3.7289626474499955 40.440066368951626),Jardines del Museo del Traje,,,,,,park,,,,,,,-3.728962647449996,40.440066368951626,-415108,4501788,jardines del museo del traje,87
+POINT (-3.6953831127797163 40.422224921165515),Teatro Infanta Isabel,,theatre,,,,,Calle del Barquillo,24,28004,,,,-3.695383112779716,40.42222492116552,-411370,4499802,teatro infanta isabel,1183
+POINT (-3.711602613735812 40.4725474183725),Dia Market,supermarket,,,,,,,,,Dia Market,,,-3.711602613735812,40.4725474183725,-413176,4505404,dia market,449
+POINT (-3.683176759562723 40.41578732041714),Casa Remigio,,biergarten,,,,,,,,,,,-3.683176759562723,40.41578732041714,-410011,4499085,casa remigio,211
+POINT (-3.6838015 40.415647400000005),Bar Mirador El Estanque,,biergarten,,,,,,,,,,,-3.6838015,40.415647400000005,-410081,4499070,bar mirador el estanque,211
+POINT (-3.7088130796632255 40.346079691350496),Colegio de Educación Infantil y Primaria Dámaso Alonso,,school,,,,,Avenida de la Espinela,1,28021,,Comunidad de Madrid,,-3.7088130796632255,40.346079691350496,-412865,4491326,colegio de educación infantil y primaria dámaso alonso,131
+POINT (-3.7060956767441917 40.34506620942627),"Centro Privado de Educación Infantil, Primaria y Secundaria Nuestra Señora del Carmen",,school,,,,,Avenida Real de Pinto,41,28021,,,,-3.706095676744192,40.34506620942627,-412563,4491213,"centro privado de educación infantil, primaria y secundaria nuestra señora del carmen",131
+POINT (-3.6449112072069103 40.399463513903086),Colegio Público Antonio Gil Alberdi,,community_centre,,,,,Calle de la Encomienda de Palacios,52,28030,,,,-3.6449112072069103,40.399463513903086,-405752,4497268,colegio público antonio gil alberdi,289
+POINT (-3.6516134000000005 40.425744550000005),Kiosco,newsagent,,,,,,,,,,,,-3.651613400000001,40.425744550000005,-406498,4500194,kiosco,305
+POINT (-3.6509801166513327 40.42535679944762),Ahorramás,supermarket,,,,,,,,,Ahorramás,,,-3.6509801166513327,40.42535679944762,-406427,4500151,ahorramás,305
+POINT (-3.65117645 40.4259997),ONCE,lottery,,,,,,,,,ONCE,ONCE,,-3.65117645,40.4259997,-406449,4500222,once,305
+POINT (-3.730107578157081 40.44426718321174),Complejo deportivo Cantarranas,,,,,,sports_centre,,,,,,,-3.730107578157081,40.44426718321174,-415236,4502256,complejo deportivo cantarranas,87
+POINT (-3.6849446018196734 40.4167282999911),Kiosko Las Estatuas,,cafe,,,,,,,,,,,-3.6849446018196734,40.4167282999911,-410208,4499190,kiosko las estatuas,211
+POINT (-3.6826352783571146 40.41483995600014),Mirador,,cafe,,,,,,,,,,,-3.6826352783571146,40.41483995600014,-409951,4498980,mirador,211
+POINT (-3.6928383675923264 40.37160177529826),Centro de Salud San Fermín,,clinic,,clinic,,,Avenida de San Fermín,3,28041.0,,,,-3.6928383675923264,40.37160177529826,-411087,4494167,centro de salud san fermín,116
+POINT (-3.6935855330436818 40.374562359960166),Instalación Deportiva Municipal Básica Parque Estafeta,,,,,,sports_centre,Calle de la Estafeta,4,28041.0,,Ayuntamiento de Madrid,,-3.6935855330436818,40.374562359960166,-411170,4494496,instalación deportiva municipal básica parque estafeta,116
+POINT (-3.6922440499999998 40.37460365),Plaza de la Torre del Oro,,,,,,park,,,,,,,-3.69224405,40.37460365,-411021,4494501,plaza de la torre del oro,116
+POINT (-3.695933620751125 40.42225093076114),Only You Hotel & Lounge,,,hotel,,,,Calle del Barquillo,21,28004.0,,,,-3.695933620751125,40.42225093076114,-411431,4499805,only you hotel & lounge,1183
+POINT (-3.6326774017821224 40.44449704666208),Centro Privado de Educación Especial Numen,,school,,,,,Calle de Tabatinga,11,28027.0,,,,-3.6326774017821215,40.44449704666208,-404390,4502281,centro privado de educación especial numen,276
+POINT (-3.6979493984967418 40.4503492576904),NYX Hotel,,,hotel,,,,Calle del Aviador Zorita,34,28020.0,,,,-3.6979493984967418,40.4503492576904,-411656,4502933,nyx hotel,739
+POINT (-3.6985116653432235 40.449899182498555),Apartamentos Plaza Basílica,,,hotel,,,,Calle del Aviador Zorita,27,,,,,-3.698511665343224,40.44989918249856,-411718,4502883,apartamentos plaza basílica,739
+POINT (-3.7509240429191455 40.37420124154516),Centro Sociocultural García Lorca,,community_centre,,,,,Calle de Eugenia de Montijo,105,,,,,-3.7509240429191455,40.37420124154516,-417553,4494456,centro sociocultural garcía lorca,518
+POINT (-3.7085749113014885 40.346310360874035),Centro Sociocultural Ágata,,community_centre,,,,,Calle del Doctor Martín Arévalo,2,,,,,-3.708574911301489,40.34631036087404,-412839,4491351,centro sociocultural ágata,131
+POINT (-3.6908824456430693 40.37390427653905),Plaza de los Ojos de la Mezquita,,,,,,park,,,,,,,-3.690882445643069,40.37390427653905,-410869,4494423,plaza de los ojos de la mezquita,116
+POINT (-3.7065649213423058 40.493207070164075),Sanitas Mirasierra,,hospital,,hospital,,,Calle de Nuria,40,,,Sanitas,,-3.7065649213423058,40.49320707016408,-412615,4507704,sanitas mirasierra,158
+POINT (-3.7067758526602708 40.49292611236411),,,,,,,park,,,,,,,-3.706775852660271,40.49292611236411,-412638,4507673,,158
+POINT (-3.7291772138864125 40.43802014152683),Complejo deportivo Zona Sur,,,,,,sports_centre,,,,,,,-3.729177213886413,40.43802014152683,-415132,4501560,complejo deportivo zona sur,87
+POINT (-3.7286091 40.43897385),Centro de Evaluación Médico-Deportiva,,,,,,sports_centre,,,,,,,-3.7286091,40.43897385,-415069,4501667,centro de evaluación médico-deportiva,87
+POINT (-3.709082496177555 40.41273673688396),,,,,,,park,,,,,,,-3.709082496177555,40.41273673688396,-412895,4498746,,1179
+POINT (-3.70605545 40.3462303),Julianin,kiosk,,,,,,,,,,,,-3.70605545,40.3462303,-412558,4491342,julianin,131
+POINT (-3.705702222060695 40.3472435377515),,,,,,,park,,,,,,,-3.705702222060695,40.3472435377515,-412519,4491455,,131
+POINT (-3.708294677901028 40.34512413193114),Parvillas,,,,,,park,,,,,,,-3.708294677901028,40.34512413193114,-412807,4491219,parvillas,131
+POINT (-3.6580866504494516 40.3940184769824),Dirección Civil de Gestión Ambiental Urbana,,,,,government,,,,,,,,-3.658086650449452,40.3940184769824,-407218,4496662,dirección civil de gestión ambiental urbana,611
+POINT (-3.7085566773802854 40.34637715350095),Centro Sociocultural Ágata,,community_centre,,,,,,,,,,,-3.708556677380285,40.34637715350095,-412837,4491359,centro sociocultural ágata,131
+POINT (-3.731088068066539 40.43835504906502),Pabellón Deportivo,,,,,,sports_centre,,,,,,,-3.731088068066539,40.43835504906502,-415345,4501598,pabellón deportivo,87
+POINT (-3.6928819964210935 40.3720616679915),,,,,,,park,,,,,,,-3.6928819964210935,40.3720616679915,-411092,4494218,,116
+POINT (-3.693254427994492 40.37525897402963),Centro Deportivo Municipal San Fermín,,,,,,sports_centre,Calle de San Mario,18,28041.0,,Ayuntamiento de Madrid,,-3.693254427994492,40.37525897402963,-411133,4494574,centro deportivo municipal san fermín,116
+POINT (-3.6961729387791946 40.42712587405329),Plaza Santa Bárbara,,,,,,park,,,,,,,-3.6961729387791946,40.42712587405329,-411458,4500348,plaza santa bárbara,1087
+POINT (-3.7304802810744713 40.442800940653285),,,,,,,park,,,,,,,-3.7304802810744713,40.442800940653285,-415277,4502093,,87
+POINT (-3.7094014673968765 40.41238210900115),Zarito,,pub,,,,,Calle de la Cava Baja,28,28005.0,,,,-3.709401467396877,40.41238210900115,-412931,4498706,zarito,1179
+POINT (-3.6935178892548075 40.41216295491954),Burger King,,fast_food,,,,,Paseo del Prado,26,28014.0,Burger King,Burger King,burger,-3.693517889254808,40.41216295491954,-411162,4498682,burger king,1072
+POINT (-3.693596398901957 40.41240468712329),,vacant,,,,,,Paseo del Prado,24,,,,,-3.693596398901957,40.41240468712329,-411171,4498709,,1072
+POINT (-3.693545480149806 40.41225379174635),,vacant,,,,,,Paseo del Prado,24,28014.0,,,,-3.693545480149806,40.41225379174635,-411165,4498692,,1072
+POINT (-3.693595964569654 40.41249189908595),Caixabank,,bank,,,,,Paseo del Prado,22,28014.0,Caixabank,,,-3.693595964569654,40.41249189908595,-411171,4498719,caixabank,1072
+POINT (-3.6938231432427115 40.41251405471278),La Tapería,,bar,,,,,Plaza de la Platería de Martínez,1,28014.0,,,,-3.693823143242712,40.41251405471278,-411196,4498721,la tapería,1072
+POINT (-3.6938337305008613 40.41243092022025),Toy Panda,,fast_food,,,,,Calle de la Alameda,1,28014.0,,,asian,-3.693833730500861,40.41243092022025,-411198,4498712,toy panda,1072
+POINT (-3.7085646007290074 40.415663836056325),Starbucks,,cafe,,,,,Calle Ciudad Rodrigo,5,28012.0,Starbucks,,coffee_shop,-3.708564600729008,40.415663836056325,-412837,4499072,starbucks,1225
+POINT (-3.6848270999999992 40.451034750000005),Embajada de Nigeria,,,,,diplomatic,,Calle del Segre,23,28002.0,,,,-3.6848270999999992,40.451034750000005,-410195,4503009,embajada de nigeria,607
+POINT (-3.6830683744720716 40.417325994146346),Monumento a Alfonso XII,,,viewpoint,,,,,,,,,,-3.683068374472072,40.417325994146346,-409999,4499257,monumento a alfonso xii,211
+POINT (-3.7319393275867703 40.44006913507387),Gimnasio ETSAM,,,,,,fitness_centre,,,,,Universidad Politécnica de Madrid,,-3.7319393275867694,40.44006913507387,-415439,4501788,gimnasio etsam,87
+POINT (-3.730540366649146 40.43954796629962),,,,,,,park,,,,,,,-3.730540366649146,40.43954796629962,-415284,4501730,,87
+POINT (-3.6928306915532927 40.37461043709564),,,,,,,park,,,,,,,-3.6928306915532927,40.37461043709564,-411086,4494502,,116
+POINT (-3.7531808034112517 40.37164571764617),Parque de Mesonero Romanos,,,,,,park,,,,,,,-3.753180803411252,40.37164571764617,-417804,4494172,parque de mesonero romanos,518
+POINT (-3.752624755831646 40.37242207828446),,,,,,,park,,,,,,,-3.752624755831646,40.37242207828446,-417742,4494258,,518
+POINT (-3.75088372098151 40.373646519687114),Aspafades,,,,,association,,,,,,,,-3.75088372098151,40.37364651968712,-417548,4494394,aspafades,518
+POINT (-3.73178663308984 40.438955837605334),Escuela Técnica Superior de Edificación,,,,,university,,,,,,Universidad Politécnica de Madrid,,-3.73178663308984,40.43895583760533,-415422,4501665,escuela técnica superior de edificación,87
+POINT (-3.6721284344797045 40.507187995507564),Centro Sociocultural Las Tablas,,community_centre,,,,,,,,,,,-3.672128434479705,40.50718799550757,-408781,4509260,centro sociocultural las tablas,145
+POINT (-3.599801892535261 40.425738357682384),,,,,,,park,,,,,,,-3.599801892535261,40.425738357682384,-400730,4500193,,219
+POINT (-3.7512294561687636 40.373558224111775),Kiosko Emperatriz,kiosk,,,,,,,,,,,,-3.751229456168764,40.373558224111775,-417587,4494385,kiosko emperatriz,518
+POINT (-3.728472377974403 40.442092002889154),"Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de Biosistemas",,university,,,,,,,,,,,-3.728472377974403,40.442092002889154,-415054,4502014,"escuela técnica superior de ingeniería agronómica, alimentaria y de biosistemas",87
+POINT (-3.709694682392891 40.395056661901144),,newsagent,,,,,,,,,,,,-3.709694682392891,40.39505666190114,-412963,4496778,,569
+POINT (-3.688801295520572 40.38575387455541),,,,,,,park,,,,,,,-3.688801295520572,40.38575387455541,-410637,4495742,,299
+POINT (-3.705143067601989 40.348269292220195),Jardín de Luis Pinilla Soliveres,,,,,,park,,,,,,,-3.705143067601989,40.3482692922202,-412457,4491569,jardín de luis pinilla soliveres,131
+POINT (-3.7512010957740642 40.3735313893217),Plaza de la Emperatriz,,,,,,park,,,,,,,-3.751201095774064,40.3735313893217,-417584,4494382,plaza de la emperatriz,518
