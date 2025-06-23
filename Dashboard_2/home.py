@@ -2,7 +2,7 @@ import streamlit as st
 from data import cities
 from data import retailers
 
-st.logo("logo_locifai_tha.png",size="large")
+st.logo("Dashboard_2/logo_locifai_tha.png",size="large")
 
 st.title("Welcome to LocifAI")
 st.write("Helping businesses grow where it matters most.")
