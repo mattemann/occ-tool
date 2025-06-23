@@ -6,4 +6,4 @@ geopandas
 matplotlib
 google-cloud-aiplatform
 google-cloud-logging
-sklearn
+scikit-learn
