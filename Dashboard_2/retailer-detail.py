@@ -16,12 +16,13 @@ import os
 from assets.navigation import display_sidebar_navigation
 
 
-BASE_URL = "http://localhost:8501" # <- change to run on server or local
+# BASE_URL = "http://localhost:8501" # <- change to run on server or local
+BASR_URL = "https://locifai-tool-717627512976.europe-west1.run.app"
 
 current_file = Path(__file__).resolve()
 PROJECT_ROOT = current_file.parents[1] 
 
-st.logo("logo_locifai_tha.png", icon_image="logo_locifai_2_min.png",size="large")
+st.logo("Dashboard_2/logo_locifai_tha.png", icon_image="Dashboard_2/logo_locifai_2_min.png",size="large")
 
 # ensures a valid city+retailer is selected; otherwise force to return to home -
 def store_selected_city():
