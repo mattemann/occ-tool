@@ -14,7 +14,7 @@ from data import retailers
 from shapely import wkt
 from assets.navigation import display_sidebar_navigation
 
-st.logo("logo_locifai_tha.png", icon_image="logo_locifai_2_min.png",size="large")
+st.logo("Dashboard_2/logo_locifai_tha.png", icon_image="Dashboard_2/logo_locifai_2_min.png",size="large")
 
 # query parameters: city, cluster
 # ensures a valid city+cluster is selected; otherwise force to return to home -
