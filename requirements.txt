@@ -1,0 +1,8 @@
+streamlit
+xlsxwriter
+streamlit-folium
+scipy
+geopandas
+matplotlib
+google-cloud-aiplatform
+google-cloud-logging
