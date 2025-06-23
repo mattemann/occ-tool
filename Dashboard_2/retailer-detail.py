@@ -17,7 +17,7 @@ from assets.navigation import display_sidebar_navigation
 
 
 # BASE_URL = "http://localhost:8501" # <- change to run on server or local
-BASR_URL = "https://locifai-tool-717627512976.europe-west1.run.app"
+BASE_URL = "https://locifai-tool-717627512976.europe-west1.run.app"
 
 current_file = Path(__file__).resolve()
 PROJECT_ROOT = current_file.parents[1] 
